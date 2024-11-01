@@ -1,0 +1,1001 @@
+transaction_id,customer_id,transaction_date,transaction_amount,merchant_name,merchant_category,transaction_city,transaction_state,transaction_country,transaction_status
+1,328,2/17/2021 18:40,561.1,Morgan-George,Gas Station,Oklahoma City,Oklahoma,USA,Completed
+2,72,10/6/2024 18:32,3683.67,Lowe Group,Electronics,Saint Paul,Minnesota,USA,Pending
+3,17,12/14/2019 22:07,153.84,"Adams, Acosta and Young",Restaurants,Cheyenne,Wyoming,USA,Completed
+4,288,10/4/2023 2:01,998.19,Randolph-Moore,Pharmacy,Helena,Montana,USA,Completed
+5,302,11/5/2019 6:43,1394.56,Reyes PLC,Grocery,Richmond,Virginia,USA,Completed
+6,175,5/12/2022 0:53,1392.97,Alvarez and Sons,Restaurants,Charleston,West Virginia,USA,Failed
+7,48,3/18/2022 5:23,1902.74,"Heath, Bush and Giles",Travel,Denver,Colorado,USA,Failed
+8,414,4/18/2020 14:03,222.03,Williams-Strong,Entertainment,Little Rock,Arkansas,USA,Pending
+9,499,4/19/2024 12:45,4611.87,Henderson Inc,Electronics,Cheyenne,Wyoming,USA,Pending
+10,425,3/8/2021 20:54,3145.06,"Reed, Johnson and Novak",Travel,Raleigh,North Carolina,USA,Pending
+11,361,12/21/2021 8:47,352.43,"Riley, Bennett and Conrad",Restaurants,Phoenix,Arizona,USA,Failed
+12,438,8/11/2024 4:16,1167.79,Collins-Smith,Electronics,Hartford,Connecticut,USA,Failed
+13,233,6/9/2021 13:44,3180.24,Williams Ltd,Travel,Columbus,Ohio,USA,Completed
+14,182,5/18/2020 18:03,1051.49,"Baker, Thompson and Garcia",Gas Station,Jackson,Mississippi,USA,Pending
+15,312,3/19/2024 4:33,3176.72,Harding Ltd,Restaurants,Baton Rouge,Louisiana,USA,Completed
+16,195,2/21/2022 19:41,1353.39,"Elliott, Johnson and Miller",Restaurants,Sacramento,California,USA,Pending
+17,432,9/10/2021 22:32,3842.73,Rodriguez LLC,Grocery,Sacramento,California,USA,Completed
+18,413,4/30/2020 20:29,1580.69,Johnson-Simpson,Gas Station,Little Rock,Arkansas,USA,Completed
+19,468,7/18/2022 1:00,4714.83,Walker and Sons,Travel,Little Rock,Arkansas,USA,Completed
+20,203,12/26/2021 18:57,4423.99,Smith PLC,Entertainment,Dover,Delaware,USA,Completed
+21,72,3/1/2020 12:53,1236.9,Gonzalez PLC,Gas Station,Oklahoma City,Oklahoma,USA,Pending
+22,460,8/5/2020 17:00,2919.75,"Wheeler, Montgomery and Stuart",Travel,Hartford,Connecticut,USA,Completed
+23,261,6/17/2023 15:25,2470.11,Miller-Calderon,Grocery,Topeka,Kansas,USA,Completed
+24,322,10/16/2022 8:37,804.11,"Singleton, Brown and Allen",Pharmacy,Frankfort,Kentucky,USA,Pending
+25,198,3/14/2020 13:41,1911.19,"Taylor, Merritt and Villa",Entertainment,Columbia,South Carolina,USA,Pending
+26,498,12/23/2022 19:33,2768.36,Keller-Larson,Grocery,Lincoln,Nebraska,USA,Pending
+27,350,2/6/2021 5:35,4424.52,Harrison-West,Gas Station,Annapolis,Maryland,USA,Pending
+28,58,6/9/2024 7:54,1471.03,Hubbard-Romero,Clothing,Topeka,Kansas,USA,Failed
+29,489,8/31/2022 19:29,3611.85,"Anderson, Andrade and Stevens",Gas Station,Denver,Colorado,USA,Pending
+30,260,8/1/2022 20:10,4563.58,Steele-James,Gas Station,Columbus,Ohio,USA,Pending
+31,79,7/11/2024 20:21,1872.7,"Green, Farrell and Harvey",Clothing,Annapolis,Maryland,USA,Pending
+32,307,11/15/2020 18:32,1624.16,"Holmes, Kerr and Pineda",Grocery,Pierre,South Dakota,USA,Completed
+33,450,8/3/2023 4:58,4926.68,"Gilbert, Hernandez and Welch",Gas Station,Charleston,West Virginia,USA,Completed
+34,124,7/26/2023 6:07,4390.66,Bright LLC,Electronics,Lincoln,Nebraska,USA,Completed
+35,418,12/1/2022 23:00,350.72,Reeves and Sons,Clothing,Trenton,New Jersey,USA,Completed
+36,485,5/26/2021 23:42,2751.27,Ramirez Group,Gas Station,Denver,Colorado,USA,Pending
+37,494,4/28/2023 20:50,1062.93,Hoffman PLC,Restaurants,Indianapolis,Indiana,USA,Pending
+38,205,4/1/2024 21:43,4975.77,Murphy-Morris,Travel,Columbus,Ohio,USA,Failed
+39,62,3/29/2020 22:46,1243.29,"Kelly, Franklin and Callahan",Electronics,Columbia,South Carolina,USA,Failed
+40,302,6/5/2020 9:40,2771.84,Bailey Ltd,Restaurants,Indianapolis,Indiana,USA,Completed
+41,363,6/13/2024 16:01,3157.36,"Brown, Gonzalez and Evans",Restaurants,Bismarck,North Dakota,USA,Completed
+42,441,10/14/2023 4:14,1655.49,Becker-Short,Restaurants,Augusta,Maine,USA,Failed
+43,110,12/21/2021 20:23,2698.47,"Thompson, Jackson and Mueller",Entertainment,Albany,New York,USA,Completed
+44,414,2/18/2024 8:56,2038.26,"Johnson, Rogers and Day",Electronics,Montgomery,Alabama,USA,Completed
+45,182,7/11/2020 13:46,2120.78,"Mercado, Benson and Winters",Entertainment,Dover,Delaware,USA,Pending
+46,345,6/12/2020 16:53,3269.01,Garcia Inc,Electronics,Concord,New Hampshire,USA,Completed
+47,373,3/23/2022 1:48,1699.82,Durham Ltd,Electronics,Jefferson City,Missouri,USA,Completed
+48,98,9/8/2022 2:29,2683.75,Allen LLC,Clothing,Indianapolis,Indiana,USA,Failed
+49,143,8/6/2020 12:36,2315.83,"Anderson, Garza and Donovan",Electronics,Carson City,Nevada,USA,Failed
+50,26,2/19/2021 9:00,3262.46,"Campos, Silva and Mitchell",Grocery,Salt Lake City,Utah,USA,Completed
+51,86,6/7/2023 9:08,2035.04,"Silva, Young and Lee",Entertainment,Helena,Montana,USA,Completed
+52,463,7/27/2023 7:49,297.88,"Miller, Benjamin and Berry",Pharmacy,Atlanta,Georgia,USA,Completed
+53,136,1/7/2024 10:39,4632.96,Silva-Bennett,Entertainment,Hartford,Connecticut,USA,Failed
+54,357,3/8/2021 20:20,4786.8,Cook Group,Entertainment,Helena,Montana,USA,Completed
+55,152,9/20/2022 3:54,1092.42,"Benjamin, Jones and Hansen",Grocery,Tallahassee,Florida,USA,Pending
+56,383,9/28/2022 4:05,1571.46,Velez-Haynes,Grocery,Frankfort,Kentucky,USA,Pending
+57,258,2/8/2021 9:45,4597.34,Suarez-West,Clothing,Salt Lake City,Utah,USA,Completed
+58,436,2/24/2020 7:05,933.2,"Martinez, Norris and Mitchell",Electronics,Cheyenne,Wyoming,USA,Pending
+59,207,6/30/2024 22:05,603.83,Leonard Ltd,Restaurants,Cheyenne,Wyoming,USA,Pending
+60,318,2/25/2023 16:04,414.51,"Pierce, James and Thompson",Travel,Annapolis,Maryland,USA,Failed
+61,343,11/22/2020 7:04,3582.38,"Young, Stephenson and Greer",Restaurants,Helena,Montana,USA,Failed
+62,68,5/2/2021 20:01,3360.09,"Daniels, Nguyen and Bailey",Gas Station,Juneau,Alaska,USA,Failed
+63,476,12/11/2023 5:30,3760.56,Clark-Archer,Electronics,Oklahoma City,Oklahoma,USA,Completed
+64,319,2/13/2024 0:00,4992.28,"Mullins, Campbell and Hernandez",Electronics,Little Rock,Arkansas,USA,Completed
+65,260,9/15/2020 16:49,1329.68,Watkins Group,Travel,Harrisburg,Pennsylvania,USA,Completed
+66,190,6/15/2021 0:13,1428.51,"Kennedy, Williams and Long",Entertainment,Charleston,West Virginia,USA,Pending
+67,314,11/9/2019 5:45,4919.35,Smith Inc,Grocery,Honolulu,Hawaii,USA,Pending
+68,478,7/8/2021 21:42,3318.63,"Foster, Jackson and Wallace",Clothing,Cheyenne,Wyoming,USA,Failed
+69,456,8/29/2023 20:16,539.64,Garcia LLC,Clothing,Harrisburg,Pennsylvania,USA,Failed
+70,310,3/5/2023 6:40,1057.1,Medina PLC,Travel,Madison,Wisconsin,USA,Completed
+71,259,5/23/2024 15:03,2445.22,"Kelley, Cherry and Villanueva",Grocery,Topeka,Kansas,USA,Completed
+72,425,11/1/2019 20:07,1387.02,"Hansen, Parker and Elliott",Grocery,Montpelier,Vermont,USA,Failed
+73,327,12/26/2019 13:27,4899.09,Meza and Sons,Clothing,Baton Rouge,Louisiana,USA,Pending
+74,283,5/6/2022 9:43,3529.81,Davies and Sons,Grocery,Bismarck,North Dakota,USA,Completed
+75,484,6/20/2020 8:30,4416.12,Smith Inc,Clothing,Dover,Delaware,USA,Pending
+76,428,4/22/2021 4:42,1849.23,"Garcia, Ashley and Fleming",Clothing,Topeka,Kansas,USA,Failed
+77,22,8/31/2022 10:29,1544.75,Johnson-Jenkins,Grocery,Pierre,South Dakota,USA,Failed
+78,350,2/29/2020 17:28,1251.4,"Gamble, Nelson and Miller",Electronics,Providence,Rhode Island,USA,Failed
+79,499,4/10/2021 19:45,3105.2,Williams-Gross,Clothing,Salt Lake City,Utah,USA,Completed
+80,500,10/28/2021 5:58,4000.44,Kidd-Best,Clothing,Jackson,Mississippi,USA,Failed
+81,92,1/28/2020 6:01,3684.14,"Banks, James and Clarke",Travel,Juneau,Alaska,USA,Failed
+82,137,2/6/2020 16:17,800.19,Mitchell-Mitchell,Electronics,Boston,Massachusetts,USA,Failed
+83,440,8/17/2023 6:41,2356.1,"Cantu, Burnett and Herrera",Restaurants,Cheyenne,Wyoming,USA,Failed
+84,157,2/23/2022 21:03,4103.58,Smith-Alvarez,Restaurants,Indianapolis,Indiana,USA,Completed
+85,338,9/5/2024 14:40,969.68,"Snyder, Snyder and Nunez",Travel,Lincoln,Nebraska,USA,Failed
+86,496,1/31/2020 12:12,3867.77,Wolfe-Flores,Travel,Olympia,Washington,USA,Pending
+87,348,4/6/2023 4:01,4905.84,Mccormick LLC,Travel,Topeka,Kansas,USA,Completed
+88,450,5/11/2024 13:52,4852.15,Foster-Holmes,Clothing,Tallahassee,Florida,USA,Pending
+89,20,7/18/2022 16:57,546.47,Odonnell and Sons,Pharmacy,Nashville,Tennessee,USA,Failed
+90,224,3/31/2021 18:04,3033.01,Fleming-Buck,Electronics,Providence,Rhode Island,USA,Failed
+91,131,3/1/2021 2:14,226.71,"Henry, Villegas and Williams",Pharmacy,Des Moines,Iowa,USA,Completed
+92,187,4/3/2024 21:38,2159.33,Livingston-Reid,Travel,Topeka,Kansas,USA,Pending
+93,340,5/11/2023 19:41,4240.84,Johnson PLC,Gas Station,Carson City,Nevada,USA,Pending
+94,342,11/8/2022 0:14,2044.92,Williams-Stuart,Pharmacy,Topeka,Kansas,USA,Pending
+95,284,7/15/2020 11:43,640.8,Anderson-Jackson,Pharmacy,Concord,New Hampshire,USA,Pending
+96,347,5/15/2021 15:43,3741.93,Benson-Marshall,Clothing,Oklahoma City,Oklahoma,USA,Pending
+97,208,9/3/2020 8:46,2741.95,Stein LLC,Grocery,Salt Lake City,Utah,USA,Failed
+98,108,9/16/2023 6:40,2152.29,Cooper Ltd,Travel,Oklahoma City,Oklahoma,USA,Failed
+99,227,12/21/2022 23:02,3379.76,"Bernard, Banks and Hess",Entertainment,Atlanta,Georgia,USA,Pending
+100,338,9/11/2022 22:26,428.55,Welch Group,Travel,Springfield,Illinois,USA,Completed
+101,345,12/24/2023 10:31,1555.55,Snyder Inc,Restaurants,Cheyenne,Wyoming,USA,Completed
+102,24,11/4/2021 16:28,1227.99,Franco Group,Entertainment,Annapolis,Maryland,USA,Pending
+103,234,2/18/2021 10:18,2075.13,James Inc,Restaurants,Cheyenne,Wyoming,USA,Pending
+104,254,2/11/2023 6:01,2001.27,Moran Inc,Clothing,Phoenix,Arizona,USA,Pending
+105,458,12/16/2022 9:00,3756.07,Cardenas-Woodward,Electronics,Cheyenne,Wyoming,USA,Failed
+106,91,10/22/2020 23:27,4021.53,"Crawford, Cantrell and Hodges",Entertainment,Indianapolis,Indiana,USA,Completed
+107,470,5/5/2024 3:21,4242.44,Turner Ltd,Entertainment,Topeka,Kansas,USA,Completed
+108,342,7/26/2024 18:13,2658,"Rivera, Reid and Kim",Travel,Concord,New Hampshire,USA,Failed
+109,426,12/31/2020 1:18,4534.74,Wilson-Williams,Entertainment,Oklahoma City,Oklahoma,USA,Completed
+110,231,10/17/2021 7:55,1299.66,Murray-Elliott,Restaurants,Trenton,New Jersey,USA,Pending
+111,393,12/22/2021 16:20,3889.49,"Cross, Walker and Rivas",Entertainment,Helena,Montana,USA,Pending
+112,141,9/3/2024 11:28,2202.16,Johnson LLC,Gas Station,Cheyenne,Wyoming,USA,Completed
+113,172,5/9/2022 14:23,1601.95,Hamilton PLC,Electronics,Frankfort,Kentucky,USA,Completed
+114,119,1/20/2022 18:38,1918.26,"Cardenas, Watson and Greene",Clothing,Little Rock,Arkansas,USA,Pending
+115,33,8/25/2020 3:16,2077.27,"Ellis, Rodgers and Anderson",Travel,Phoenix,Arizona,USA,Pending
+116,213,2/5/2021 11:33,316.02,Turner-Wade,Pharmacy,Nashville,Tennessee,USA,Failed
+117,439,5/19/2023 8:28,4403.88,Johnson and Sons,Pharmacy,Hartford,Connecticut,USA,Failed
+118,483,9/21/2022 3:05,1762.04,"Lester, Turner and Choi",Pharmacy,Nashville,Tennessee,USA,Failed
+119,250,3/1/2021 20:36,1101.01,"Kelly, Acevedo and Ray",Pharmacy,Dover,Delaware,USA,Failed
+120,200,12/15/2021 9:38,1683.97,Rivera PLC,Pharmacy,Denver,Colorado,USA,Pending
+121,431,11/10/2019 4:25,2339.61,Bond-Walker,Clothing,Bismarck,North Dakota,USA,Pending
+122,465,2/24/2020 20:01,1973.13,Price Inc,Grocery,Columbia,South Carolina,USA,Completed
+123,70,5/28/2021 0:37,4334.92,Conley-Bolton,Clothing,Boise,Idaho,USA,Completed
+124,195,6/24/2021 0:36,1640.13,"Mercado, Hendrix and Perkins",Entertainment,Montpelier,Vermont,USA,Failed
+125,390,4/25/2022 1:46,4398.8,"Larson, Crawford and Burnett",Gas Station,Hartford,Connecticut,USA,Failed
+126,428,6/15/2023 12:27,414.12,Cox-Espinoza,Grocery,Olympia,Washington,USA,Pending
+127,488,10/18/2020 20:10,1753.05,"Morris, Mccarthy and Butler",Electronics,Springfield,Illinois,USA,Pending
+128,387,5/9/2021 0:52,159.99,Davis-Shah,Restaurants,Hartford,Connecticut,USA,Completed
+129,319,9/13/2022 11:18,766.15,"Vasquez, Underwood and Matthews",Clothing,Columbia,South Carolina,USA,Failed
+130,289,11/28/2023 9:36,4739.05,"Thomas, Ramirez and Carter",Entertainment,Saint Paul,Minnesota,USA,Pending
+131,393,4/16/2024 14:55,1847.63,Avila-Craig,Electronics,Sacramento,California,USA,Completed
+132,56,9/14/2021 19:34,2895.53,"Scott, Brown and Jenkins",Gas Station,Carson City,Nevada,USA,Pending
+133,204,10/14/2022 8:54,4707.65,Bell-Gardner,Restaurants,Trenton,New Jersey,USA,Completed
+134,53,2/22/2024 8:07,3487.48,White-Moon,Gas Station,Pierre,South Dakota,USA,Pending
+135,408,9/20/2022 10:29,4919.3,Smith LLC,Grocery,Columbia,South Carolina,USA,Failed
+136,339,9/19/2020 15:10,1856,Hardin-Lee,Travel,Little Rock,Arkansas,USA,Completed
+137,422,1/15/2022 0:12,2453.56,"Williams, Smith and Yu",Pharmacy,Bismarck,North Dakota,USA,Failed
+138,363,10/5/2023 11:45,769.19,"Hicks, Acosta and Hoffman",Clothing,Lansing,Michigan,USA,Pending
+139,316,2/6/2021 6:10,4041.96,Wallace-Joseph,Entertainment,Richmond,Virginia,USA,Failed
+140,423,1/30/2020 13:54,3656.48,Ruiz Ltd,Gas Station,Lansing,Michigan,USA,Failed
+141,426,8/20/2023 10:09,4673.44,Reynolds-Gilbert,Gas Station,Pierre,South Dakota,USA,Failed
+142,385,3/11/2023 21:46,2326.22,Moreno-Hart,Pharmacy,Atlanta,Georgia,USA,Failed
+143,254,12/13/2020 2:51,4255.51,Adams LLC,Clothing,Concord,New Hampshire,USA,Failed
+144,182,1/7/2021 14:35,3990.17,"Gregory, Perry and Moore",Travel,Springfield,Illinois,USA,Failed
+145,285,12/23/2020 12:26,55.7,Sweeney PLC,Restaurants,Boise,Idaho,USA,Completed
+146,369,5/29/2024 1:57,2035.11,"Greene, Boone and Vasquez",Restaurants,Olympia,Washington,USA,Pending
+147,331,10/17/2023 22:50,3560.65,Burke-Drake,Entertainment,Tallahassee,Florida,USA,Completed
+148,151,4/17/2020 11:56,1111.87,Lee Inc,Restaurants,Phoenix,Arizona,USA,Failed
+149,243,9/16/2024 15:30,2769.6,"Miller, Gutierrez and Logan",Travel,Springfield,Illinois,USA,Failed
+150,181,7/21/2023 8:22,3515.76,Ray-Day,Gas Station,Lansing,Michigan,USA,Failed
+151,119,8/25/2020 14:30,607.68,Barnes Inc,Restaurants,Saint Paul,Minnesota,USA,Failed
+152,381,12/20/2022 10:16,2681.64,Thomas Ltd,Clothing,Honolulu,Hawaii,USA,Completed
+153,379,3/17/2020 8:50,2423.57,Perez and Sons,Gas Station,Charleston,West Virginia,USA,Completed
+154,152,2/14/2022 6:16,1141.28,Green PLC,Clothing,Baton Rouge,Louisiana,USA,Failed
+155,363,9/28/2024 23:51,2673,"Anderson, Ramirez and Taylor",Gas Station,Boise,Idaho,USA,Completed
+156,284,11/11/2021 15:59,1464.22,"Hodges, Kline and Young",Clothing,Jefferson City,Missouri,USA,Pending
+157,53,4/27/2024 23:50,4364.24,"Johnson, Randolph and Smith",Gas Station,Harrisburg,Pennsylvania,USA,Failed
+158,226,3/8/2020 13:14,1706.83,"Munoz, Chavez and Holland",Grocery,Charleston,West Virginia,USA,Failed
+159,59,3/3/2020 10:03,4111.47,"Bauer, Silva and Martinez",Pharmacy,Columbia,South Carolina,USA,Failed
+160,296,11/21/2020 14:37,3149.08,Stevens PLC,Grocery,Charleston,West Virginia,USA,Completed
+161,416,5/18/2024 12:21,2816.38,Delgado Inc,Gas Station,Madison,Wisconsin,USA,Completed
+162,61,8/13/2021 6:44,2792.57,Garza-Conrad,Pharmacy,Springfield,Illinois,USA,Pending
+163,398,2/21/2023 6:40,2615.25,Lawson PLC,Entertainment,Sacramento,California,USA,Failed
+164,441,9/1/2021 7:49,2944.68,Martin-Mitchell,Pharmacy,Indianapolis,Indiana,USA,Failed
+165,313,12/26/2019 18:58,4800.74,"Reed, Taylor and Jensen",Electronics,Nashville,Tennessee,USA,Completed
+166,136,10/28/2020 12:49,3303.84,Mcdonald-Werner,Clothing,Raleigh,North Carolina,USA,Completed
+167,283,3/13/2023 6:29,379.95,Jackson-Reynolds,Grocery,Lansing,Michigan,USA,Failed
+168,353,1/25/2024 5:48,2971.09,Williamson PLC,Gas Station,Columbus,Ohio,USA,Completed
+169,148,11/6/2022 10:32,3536.24,Clark and Sons,Entertainment,Baton Rouge,Louisiana,USA,Completed
+170,474,2/4/2023 7:30,1326.45,"Johnson, Best and Butler",Restaurants,Columbus,Ohio,USA,Failed
+171,279,8/6/2020 1:17,1127.92,Soto Group,Clothing,Denver,Colorado,USA,Failed
+172,37,7/18/2024 17:18,302.89,Wilson PLC,Gas Station,Richmond,Virginia,USA,Pending
+173,225,1/28/2022 20:56,626.15,Zamora-Pace,Gas Station,Harrisburg,Pennsylvania,USA,Pending
+174,483,6/15/2020 2:05,1364.87,Fleming PLC,Entertainment,Lincoln,Nebraska,USA,Failed
+175,307,4/12/2023 19:03,204.1,Jones Ltd,Pharmacy,Jackson,Mississippi,USA,Pending
+176,310,10/14/2022 21:36,1255.59,Hernandez Group,Electronics,Helena,Montana,USA,Completed
+177,392,11/24/2023 17:29,3363.05,"Rodriguez, Tucker and Miller",Gas Station,Jackson,Mississippi,USA,Pending
+178,391,2/23/2022 18:48,3782.56,Bonilla Group,Entertainment,Dover,Delaware,USA,Pending
+179,470,9/23/2024 19:45,1394.39,"Bailey, Herrera and Edwards",Pharmacy,Charleston,West Virginia,USA,Pending
+180,497,7/2/2023 2:36,460.76,"Dickson, Silva and Gutierrez",Travel,Columbus,Ohio,USA,Failed
+181,165,9/1/2022 19:06,3352.32,Melendez-Wright,Clothing,Nashville,Tennessee,USA,Failed
+182,356,7/21/2024 7:15,2479.87,Chavez Ltd,Pharmacy,Indianapolis,Indiana,USA,Pending
+183,233,3/27/2024 13:00,444.86,"Welch, Mason and Mckee",Gas Station,Nashville,Tennessee,USA,Failed
+184,497,2/10/2023 10:37,3863.88,Choi-Taylor,Grocery,Jefferson City,Missouri,USA,Pending
+185,212,12/6/2021 5:51,275.75,Wyatt-Ingram,Travel,Columbia,South Carolina,USA,Pending
+186,321,6/22/2022 2:07,2212.99,"Ross, Patterson and King",Grocery,Carson City,Nevada,USA,Completed
+187,282,9/18/2020 0:27,659.41,"Reyes, Payne and Sanchez",Gas Station,Lansing,Michigan,USA,Failed
+188,63,10/4/2021 14:58,149.2,Dominguez Ltd,Restaurants,Little Rock,Arkansas,USA,Pending
+189,160,5/13/2023 9:23,2756.44,"Burns, Whitehead and Moore",Pharmacy,Denver,Colorado,USA,Completed
+190,431,3/21/2024 15:58,4565.08,"Adams, Hudson and Baker",Entertainment,Frankfort,Kentucky,USA,Completed
+191,256,9/21/2022 5:05,4663.6,Jones-Smith,Gas Station,Trenton,New Jersey,USA,Pending
+192,213,4/26/2020 2:34,4174.45,Moore-Suarez,Entertainment,Frankfort,Kentucky,USA,Completed
+193,283,7/11/2020 4:44,727.49,Davila LLC,Restaurants,Juneau,Alaska,USA,Pending
+194,443,5/29/2024 0:10,353.7,"Shaw, Smith and Wagner",Pharmacy,Topeka,Kansas,USA,Failed
+195,421,7/29/2022 5:31,17.81,Ayala-Delgado,Gas Station,Bismarck,North Dakota,USA,Pending
+196,444,9/16/2021 21:55,747.23,Monroe-Thomas,Entertainment,Pierre,South Dakota,USA,Failed
+197,283,2/8/2023 8:30,3815.55,"Garcia, Nixon and Hopkins",Pharmacy,Albany,New York,USA,Failed
+198,446,2/14/2024 3:33,947.32,Reynolds Group,Restaurants,Raleigh,North Carolina,USA,Pending
+199,120,7/24/2024 6:54,4280.78,Burnett-Le,Pharmacy,Honolulu,Hawaii,USA,Completed
+200,382,4/12/2022 2:37,2367.52,Weiss LLC,Pharmacy,Richmond,Virginia,USA,Failed
+201,254,10/16/2024 20:15,4824.3,Garcia and Sons,Clothing,Raleigh,North Carolina,USA,Pending
+202,446,9/7/2020 9:11,506.32,Cox PLC,Entertainment,Carson City,Nevada,USA,Completed
+203,8,2/9/2021 4:24,3613.61,Miller Ltd,Pharmacy,Raleigh,North Carolina,USA,Pending
+204,39,3/25/2022 13:24,2350.11,"Gay, Lynch and Carr",Gas Station,Montgomery,Alabama,USA,Failed
+205,333,9/15/2023 0:50,406.18,Kim-Kennedy,Travel,Richmond,Virginia,USA,Pending
+206,489,1/21/2022 16:03,1586.72,Bender-Bolton,Entertainment,Lincoln,Nebraska,USA,Pending
+207,317,10/12/2021 7:48,346.76,Nelson-Bartlett,Gas Station,Salt Lake City,Utah,USA,Completed
+208,223,5/3/2020 21:09,4891.8,Hernandez-Fernandez,Electronics,Sacramento,California,USA,Failed
+209,356,3/25/2021 18:57,1500.83,Vega-Arellano,Grocery,Nashville,Tennessee,USA,Completed
+210,408,12/28/2022 21:37,285.32,Mcgee and Sons,Travel,Helena,Montana,USA,Failed
+211,75,8/28/2021 8:41,1224.77,Zamora-Reese,Pharmacy,Dover,Delaware,USA,Pending
+212,88,11/9/2020 1:38,879.47,Rogers-Blair,Pharmacy,Providence,Rhode Island,USA,Pending
+213,255,5/24/2022 18:59,4564.58,Long LLC,Clothing,Helena,Montana,USA,Completed
+214,327,3/25/2022 6:53,1273.62,Baker and Sons,Gas Station,Sacramento,California,USA,Pending
+215,461,2/24/2022 20:43,4024.14,Clark and Sons,Gas Station,Carson City,Nevada,USA,Pending
+216,38,10/25/2021 3:33,2211.44,Johnson-Jefferson,Travel,Charleston,West Virginia,USA,Pending
+217,328,7/6/2020 1:31,4810.34,"Ryan, Watkins and Robinson",Gas Station,Bismarck,North Dakota,USA,Failed
+218,102,2/28/2021 14:24,4996.87,Martinez-Estes,Entertainment,Oklahoma City,Oklahoma,USA,Completed
+219,196,4/4/2021 11:58,2861.75,Lawrence Ltd,Gas Station,Springfield,Illinois,USA,Pending
+220,12,5/14/2023 11:08,4889.83,Jones-Davis,Pharmacy,Providence,Rhode Island,USA,Failed
+221,290,12/6/2022 8:45,4326.01,"Rogers, Brady and White",Grocery,Lansing,Michigan,USA,Pending
+222,427,12/8/2019 3:24,4521.26,"Murray, Williams and Braun",Gas Station,Santa Fe,New Mexico,USA,Completed
+223,113,4/22/2024 19:47,3184.91,Warner Inc,Gas Station,Juneau,Alaska,USA,Pending
+224,322,10/26/2021 7:57,490.33,Thomas-Hubbard,Grocery,Little Rock,Arkansas,USA,Failed
+225,18,7/23/2022 12:51,2899.97,Turner-Berg,Clothing,Salt Lake City,Utah,USA,Completed
+226,168,6/5/2020 22:52,3738.67,"Taylor, White and Graham",Clothing,Salem,Oregon,USA,Completed
+227,403,7/5/2020 15:41,2699.34,Doyle-Williams,Travel,Olympia,Washington,USA,Pending
+228,426,4/27/2022 6:46,826.9,"Wilkinson, Finley and Hamilton",Entertainment,Jefferson City,Missouri,USA,Failed
+229,412,11/6/2022 6:33,580.27,Miranda-Jones,Electronics,Jackson,Mississippi,USA,Completed
+230,441,5/10/2024 0:45,3383.24,Washington-Adams,Pharmacy,Honolulu,Hawaii,USA,Pending
+231,47,6/23/2023 13:28,3954.46,Chambers Group,Grocery,Albany,New York,USA,Failed
+232,233,3/27/2022 8:23,1846.09,"Hill, Miller and Adams",Gas Station,Oklahoma City,Oklahoma,USA,Pending
+233,422,12/4/2022 9:27,3194.55,Mcguire-Schmitt,Travel,Raleigh,North Carolina,USA,Completed
+234,242,7/7/2023 12:06,130,Mosley-Perry,Travel,Baton Rouge,Louisiana,USA,Pending
+235,332,12/14/2021 19:47,320.77,"Myers, Montes and Stuart",Entertainment,Cheyenne,Wyoming,USA,Pending
+236,333,2/14/2022 8:02,2044.44,Salinas-Moore,Clothing,Santa Fe,New Mexico,USA,Completed
+237,156,9/15/2024 4:55,4979.66,"Jennings, Shah and Delgado",Electronics,Montgomery,Alabama,USA,Completed
+238,455,8/1/2022 8:57,2690.05,"Francis, Walters and West",Pharmacy,Springfield,Illinois,USA,Failed
+239,344,2/10/2023 0:39,4747.16,"Jones, Saunders and Ortega",Pharmacy,Saint Paul,Minnesota,USA,Pending
+240,454,6/24/2023 15:29,2077.35,"Warren, White and Reynolds",Electronics,Frankfort,Kentucky,USA,Failed
+241,481,3/11/2023 2:39,4757.85,Medina Inc,Grocery,Columbia,South Carolina,USA,Pending
+242,112,4/7/2022 0:01,2219.7,"Chung, Smith and Webb",Restaurants,Sacramento,California,USA,Failed
+243,352,3/1/2023 19:18,1839.84,Santana-Johnson,Travel,Indianapolis,Indiana,USA,Completed
+244,142,4/1/2020 23:42,953.09,Rice-Buchanan,Electronics,Nashville,Tennessee,USA,Failed
+245,340,8/18/2022 13:32,1064.47,"Clark, Gibson and Sexton",Grocery,Honolulu,Hawaii,USA,Completed
+246,125,1/22/2021 21:12,4944.16,Stanley-Henry,Restaurants,Lincoln,Nebraska,USA,Completed
+247,301,12/7/2023 20:11,1083.68,Brown-Montgomery,Restaurants,Honolulu,Hawaii,USA,Failed
+248,404,7/4/2020 10:45,4503.15,"Mckenzie, Johnson and Smith",Grocery,Jefferson City,Missouri,USA,Failed
+249,67,8/20/2022 6:27,2703.38,"Russo, Bailey and Vargas",Clothing,Topeka,Kansas,USA,Completed
+250,68,4/20/2020 9:27,79.23,"Huff, Collins and Harris",Restaurants,Baton Rouge,Louisiana,USA,Pending
+251,9,2/11/2021 7:47,875.36,"Jones, Combs and Murphy",Grocery,Harrisburg,Pennsylvania,USA,Completed
+252,270,7/1/2021 12:49,572.68,Adkins PLC,Electronics,Annapolis,Maryland,USA,Failed
+253,399,10/21/2021 12:58,1813.38,Cross-Mathis,Electronics,Trenton,New Jersey,USA,Failed
+254,485,7/27/2024 4:46,3077.46,"Joyce, Hughes and Campos",Gas Station,Nashville,Tennessee,USA,Failed
+255,32,6/22/2021 23:15,4992.94,"Berry, Brooks and Smith",Pharmacy,Springfield,Illinois,USA,Failed
+256,252,4/1/2022 19:38,3563.44,Morales-Howard,Entertainment,Richmond,Virginia,USA,Completed
+257,165,6/28/2022 17:37,3043.45,"Juarez, Johnson and Browning",Electronics,Charleston,West Virginia,USA,Completed
+258,320,6/1/2023 1:26,3167.22,Ruiz-Jones,Travel,Cheyenne,Wyoming,USA,Failed
+259,233,3/29/2022 17:10,2530.23,"Brock, Ruiz and Harris",Pharmacy,Lansing,Michigan,USA,Completed
+260,437,4/24/2023 14:48,3275.29,Santiago-Keller,Restaurants,Carson City,Nevada,USA,Failed
+261,455,6/3/2021 20:29,1146.33,Reid Group,Travel,Concord,New Hampshire,USA,Failed
+262,213,2/1/2020 23:47,3649.41,Chapman-Patrick,Travel,Juneau,Alaska,USA,Failed
+263,341,10/26/2021 21:05,1278.17,Andersen-Sanchez,Clothing,Albany,New York,USA,Pending
+264,35,11/20/2020 13:25,460.67,Erickson-Robertson,Electronics,Jackson,Mississippi,USA,Completed
+265,50,8/22/2020 20:48,3724.22,"Carter, Pugh and Chase",Travel,Salem,Oregon,USA,Completed
+266,301,8/3/2024 10:05,4783.34,Lucas-Mcbride,Travel,Topeka,Kansas,USA,Pending
+267,211,1/24/2021 2:18,1771.22,Pugh-Bailey,Pharmacy,Lansing,Michigan,USA,Pending
+268,496,6/27/2022 1:08,1441.71,"Stanley, Schwartz and Brown",Gas Station,Lansing,Michigan,USA,Failed
+269,296,8/18/2024 6:16,2539.53,Butler LLC,Clothing,Nashville,Tennessee,USA,Pending
+270,115,4/27/2022 23:47,4237.14,Garza-Snyder,Travel,Annapolis,Maryland,USA,Pending
+271,59,5/31/2023 23:20,3814.22,Henry and Sons,Restaurants,Olympia,Washington,USA,Failed
+272,312,8/24/2024 10:39,4645.78,Booth PLC,Gas Station,Montgomery,Alabama,USA,Completed
+273,140,3/10/2023 11:28,3514.98,"Adams, Jones and Patterson",Gas Station,Montgomery,Alabama,USA,Failed
+274,4,6/7/2022 7:17,911.12,Peterson-Stevens,Clothing,Baton Rouge,Louisiana,USA,Pending
+275,36,4/18/2022 22:05,713.66,Grimes Inc,Grocery,Richmond,Virginia,USA,Completed
+276,193,12/29/2021 20:29,2102.06,Chen Group,Travel,Montpelier,Vermont,USA,Completed
+277,160,5/14/2021 14:30,3609.37,"Robles, Todd and Reyes",Electronics,Helena,Montana,USA,Completed
+278,81,3/15/2021 9:35,3773.41,"Cuevas, Harris and Johnson",Grocery,Lincoln,Nebraska,USA,Pending
+279,140,3/8/2024 10:19,2218.35,Foster Ltd,Pharmacy,Austin,Texas,USA,Failed
+280,213,12/9/2020 10:52,1369.47,Cole-Harris,Electronics,Frankfort,Kentucky,USA,Failed
+281,57,1/17/2023 1:32,1419.82,Smith Ltd,Entertainment,Carson City,Nevada,USA,Pending
+282,24,3/28/2021 20:05,1106.49,"Lewis, Sanchez and Conrad",Grocery,Indianapolis,Indiana,USA,Completed
+283,155,1/12/2022 22:46,4726.89,"Donaldson, Murphy and Barr",Clothing,Austin,Texas,USA,Failed
+284,168,7/6/2022 13:51,604.32,"Gonzalez, Cunningham and Brown",Entertainment,Trenton,New Jersey,USA,Pending
+285,90,12/22/2020 13:14,650.28,Chen LLC,Restaurants,Nashville,Tennessee,USA,Pending
+286,37,3/8/2020 16:35,1988.37,"Henderson, Chapman and Townsend",Grocery,Topeka,Kansas,USA,Failed
+287,236,1/31/2021 23:37,4606.21,Green-Lee,Travel,Austin,Texas,USA,Pending
+288,294,2/8/2024 2:25,2025.09,Bell Group,Pharmacy,Salt Lake City,Utah,USA,Failed
+289,208,2/17/2021 5:40,109.18,Gomez PLC,Travel,Saint Paul,Minnesota,USA,Completed
+290,426,12/26/2019 11:51,3449.6,"Bell, Dickerson and Jimenez",Travel,Saint Paul,Minnesota,USA,Completed
+291,433,10/29/2023 7:22,533.79,Mccoy-Williams,Pharmacy,Atlanta,Georgia,USA,Pending
+292,269,2/7/2023 5:33,397.84,"Valdez, Smith and Hernandez",Gas Station,Juneau,Alaska,USA,Pending
+293,114,3/26/2021 7:28,1668.68,Terry-Thomas,Clothing,Madison,Wisconsin,USA,Completed
+294,272,3/16/2023 8:18,2552.21,Dyer-Carlson,Travel,Jackson,Mississippi,USA,Failed
+295,121,9/22/2020 3:43,518.51,"Vaughn, Thomas and Green",Gas Station,Phoenix,Arizona,USA,Completed
+296,309,12/31/2022 19:54,768.58,Meadows-Peterson,Electronics,Raleigh,North Carolina,USA,Completed
+297,238,12/3/2019 16:39,3773.46,Wilson Ltd,Entertainment,Jefferson City,Missouri,USA,Pending
+298,443,11/23/2021 8:45,4855.01,Thomas PLC,Travel,Charleston,West Virginia,USA,Completed
+299,35,3/11/2021 6:00,2347.26,Wilson LLC,Gas Station,Lincoln,Nebraska,USA,Failed
+300,181,5/5/2021 19:29,2539.15,Suarez Ltd,Gas Station,Sacramento,California,USA,Failed
+301,20,9/13/2024 12:04,289.17,Carlson-Wells,Gas Station,Boise,Idaho,USA,Completed
+302,315,6/6/2020 21:59,2972.43,"Becker, Johnston and Smith",Pharmacy,Atlanta,Georgia,USA,Failed
+303,231,9/28/2021 21:54,4545.7,Levine-Collier,Restaurants,Phoenix,Arizona,USA,Failed
+304,257,11/20/2021 12:15,758.55,"Simpson, Gutierrez and Nichols",Grocery,Lincoln,Nebraska,USA,Failed
+305,416,12/22/2020 4:02,4496.14,Moreno-Knight,Travel,Springfield,Illinois,USA,Pending
+306,259,11/28/2020 7:01,3232.4,Mann LLC,Grocery,Columbus,Ohio,USA,Completed
+307,225,9/16/2020 15:12,2622.72,"Byrd, Gutierrez and Erickson",Clothing,Columbus,Ohio,USA,Failed
+308,470,9/15/2022 20:19,1418.05,"Mccarthy, Cook and Turner",Pharmacy,Baton Rouge,Louisiana,USA,Failed
+309,405,3/11/2020 10:25,3156.28,Brown-Holmes,Travel,Des Moines,Iowa,USA,Completed
+310,49,7/9/2024 21:19,2792.03,Kelley LLC,Pharmacy,Carson City,Nevada,USA,Failed
+311,371,5/5/2022 2:45,4258.57,Parrish-Hughes,Clothing,Nashville,Tennessee,USA,Failed
+312,299,6/29/2023 4:43,3319.74,Key-Brown,Travel,Austin,Texas,USA,Failed
+313,67,5/16/2023 9:05,2977.23,Weber-Perry,Electronics,Trenton,New Jersey,USA,Failed
+314,330,1/10/2023 15:15,3959.35,"Parrish, Hill and Barrett",Clothing,Phoenix,Arizona,USA,Pending
+315,331,12/21/2019 20:50,3353.93,George LLC,Travel,Santa Fe,New Mexico,USA,Completed
+316,159,12/17/2021 7:51,905.41,Jennings-Carter,Restaurants,Honolulu,Hawaii,USA,Failed
+317,99,3/16/2021 2:07,1136.58,Jones LLC,Clothing,Little Rock,Arkansas,USA,Completed
+318,152,7/4/2022 2:46,4222.92,Barker-Winters,Electronics,Montgomery,Alabama,USA,Pending
+319,339,9/15/2024 20:49,1687.14,"Long, Morales and Martin",Clothing,Atlanta,Georgia,USA,Pending
+320,79,3/22/2024 1:52,815.42,Mcgrath-Robinson,Clothing,Baton Rouge,Louisiana,USA,Pending
+321,23,1/22/2023 7:27,2057.24,"Cross, Johnson and Gonzalez",Restaurants,Columbus,Ohio,USA,Failed
+322,386,9/7/2023 19:50,3743.94,Clay Ltd,Entertainment,Little Rock,Arkansas,USA,Completed
+323,159,1/8/2022 19:06,4828.16,Graham-Price,Entertainment,Lansing,Michigan,USA,Completed
+324,348,7/1/2021 9:31,4735.92,"Smith, Griffin and Anderson",Entertainment,Harrisburg,Pennsylvania,USA,Failed
+325,399,3/9/2022 18:13,1912.45,"Sanchez, Young and Jones",Pharmacy,Montpelier,Vermont,USA,Completed
+326,411,12/25/2021 13:52,3025.29,"Hobbs, Hoffman and Lewis",Gas Station,Boston,Massachusetts,USA,Completed
+327,448,5/4/2022 16:06,1859.2,"Hughes, Moore and Garcia",Electronics,Cheyenne,Wyoming,USA,Pending
+328,146,2/5/2022 19:32,423.96,"Lopez, Martinez and Bartlett",Clothing,Dover,Delaware,USA,Failed
+329,464,10/18/2021 1:39,2569.2,"Johnson, Valentine and Robertson",Pharmacy,Helena,Montana,USA,Completed
+330,419,4/4/2020 19:23,2258.38,Arias and Sons,Travel,Raleigh,North Carolina,USA,Completed
+331,28,6/1/2020 16:54,1985.29,Reynolds LLC,Travel,Baton Rouge,Louisiana,USA,Completed
+332,42,11/26/2020 21:27,1877.69,"Vasquez, Evans and Jones",Grocery,Salem,Oregon,USA,Failed
+333,430,6/7/2020 13:39,3574.95,"Christensen, Wilkins and Gentry",Travel,Topeka,Kansas,USA,Completed
+334,20,9/14/2024 16:30,1437.96,Smith-Olsen,Entertainment,Denver,Colorado,USA,Pending
+335,389,2/16/2023 16:39,3529.15,Smith-Stone,Entertainment,Santa Fe,New Mexico,USA,Pending
+336,464,3/10/2024 7:45,400.73,Blake-Logan,Gas Station,Baton Rouge,Louisiana,USA,Completed
+337,281,5/15/2024 21:45,4701.43,"Davis, Young and Odom",Pharmacy,Richmond,Virginia,USA,Completed
+338,122,1/2/2024 18:42,1509.25,Fox-Hawkins,Grocery,Albany,New York,USA,Completed
+339,328,12/3/2022 5:26,3970.53,Ho Inc,Entertainment,Augusta,Maine,USA,Completed
+340,429,10/8/2021 14:04,4526.21,"Green, Mueller and Williams",Grocery,Dover,Delaware,USA,Pending
+341,368,5/15/2022 17:32,722.17,"Delgado, Kelly and Kelley",Pharmacy,Des Moines,Iowa,USA,Completed
+342,124,10/30/2019 17:46,2855.47,Green Group,Clothing,Indianapolis,Indiana,USA,Pending
+343,269,8/9/2021 16:33,4873.4,"Pierce, Wallace and Gutierrez",Electronics,Oklahoma City,Oklahoma,USA,Pending
+344,200,1/13/2024 11:31,4367.29,Hancock PLC,Grocery,Lincoln,Nebraska,USA,Pending
+345,192,3/29/2022 2:31,1271.98,Ellis-Zhang,Grocery,Boston,Massachusetts,USA,Failed
+346,177,7/10/2020 4:56,1209.42,"Perez, Adkins and Clark",Electronics,Pierre,South Dakota,USA,Pending
+347,69,12/25/2019 2:47,226.46,Case-Lopez,Travel,Pierre,South Dakota,USA,Pending
+348,426,6/20/2024 1:05,3896.82,Powell-Brown,Entertainment,Pierre,South Dakota,USA,Pending
+349,324,2/17/2022 12:47,915.48,Burns Inc,Clothing,Jackson,Mississippi,USA,Completed
+350,19,1/27/2022 5:15,1470.75,Camacho LLC,Grocery,Cheyenne,Wyoming,USA,Completed
+351,162,6/15/2022 7:46,4667.19,"Oconnor, Curtis and Shelton",Pharmacy,Hartford,Connecticut,USA,Pending
+352,130,12/5/2022 15:10,187.92,Hudson-Murphy,Restaurants,Cheyenne,Wyoming,USA,Failed
+353,442,4/20/2024 7:20,3905.3,Rodriguez PLC,Travel,Juneau,Alaska,USA,Failed
+354,410,3/1/2023 1:05,1843.26,Terrell-Wheeler,Pharmacy,Columbus,Ohio,USA,Pending
+355,459,12/7/2019 21:38,4782.61,"Kelley, Torres and Walters",Travel,Raleigh,North Carolina,USA,Completed
+356,355,9/7/2022 6:06,2490.13,Adams-Hughes,Gas Station,Concord,New Hampshire,USA,Completed
+357,41,6/26/2024 1:49,2155.88,Carroll Ltd,Clothing,Honolulu,Hawaii,USA,Pending
+358,165,11/4/2019 20:32,517.48,Gonzalez PLC,Travel,Baton Rouge,Louisiana,USA,Pending
+359,157,4/21/2023 23:05,2232.35,Garrett and Sons,Pharmacy,Lansing,Michigan,USA,Completed
+360,180,12/4/2019 2:17,2238.41,Reynolds PLC,Travel,Juneau,Alaska,USA,Pending
+361,141,10/30/2020 18:16,3199.15,Mclean and Sons,Grocery,Helena,Montana,USA,Completed
+362,187,1/31/2024 3:47,2567.86,"Steele, Bishop and Johnson",Clothing,Lansing,Michigan,USA,Completed
+363,435,2/9/2024 7:06,3039.83,Martin and Sons,Entertainment,Augusta,Maine,USA,Completed
+364,35,3/16/2022 11:30,1183.8,"Jones, Mcdowell and Deleon",Travel,Cheyenne,Wyoming,USA,Failed
+365,487,9/19/2021 5:50,2838.39,Hobbs-Berg,Clothing,Phoenix,Arizona,USA,Pending
+366,486,5/16/2021 15:20,1857.97,"Conley, Lopez and Hoffman",Entertainment,Cheyenne,Wyoming,USA,Completed
+367,272,3/29/2020 20:55,1837.91,"Potts, Chavez and Lopez",Travel,Phoenix,Arizona,USA,Pending
+368,128,7/14/2022 5:31,4802.8,"Wilcox, Glover and Robinson",Grocery,Atlanta,Georgia,USA,Pending
+369,256,4/14/2024 4:00,2591.14,Hernandez-Brown,Electronics,Raleigh,North Carolina,USA,Failed
+370,361,12/2/2020 2:07,2234.13,Gomez-Baker,Gas Station,Providence,Rhode Island,USA,Pending
+371,103,4/22/2020 10:02,617.57,Walter Group,Electronics,Columbia,South Carolina,USA,Failed
+372,461,11/26/2021 6:38,3568.28,Williams-Rodriguez,Electronics,Frankfort,Kentucky,USA,Pending
+373,342,6/10/2024 11:45,1740.39,Boyd-Ortega,Electronics,Montgomery,Alabama,USA,Pending
+374,457,6/25/2021 17:37,1503.28,Hensley LLC,Clothing,Richmond,Virginia,USA,Pending
+375,407,7/23/2020 1:19,1810.65,Gonzales-Schmidt,Restaurants,Cheyenne,Wyoming,USA,Completed
+376,406,12/17/2020 19:51,698.69,Cochran PLC,Entertainment,Lansing,Michigan,USA,Completed
+377,284,7/1/2023 8:50,2863.53,Russo Group,Entertainment,Trenton,New Jersey,USA,Pending
+378,314,12/17/2021 0:55,4421.81,Davis-Krueger,Electronics,Topeka,Kansas,USA,Failed
+379,368,10/7/2022 16:58,3595.75,"Boyle, Gomez and Perez",Pharmacy,Nashville,Tennessee,USA,Failed
+380,65,7/27/2024 5:14,4862.04,Stevenson and Sons,Electronics,Annapolis,Maryland,USA,Failed
+381,349,4/5/2022 11:50,2589.21,Garcia-Clements,Clothing,Concord,New Hampshire,USA,Pending
+382,394,12/12/2020 3:08,4831.49,"Koch, Spencer and Murray",Pharmacy,Salem,Oregon,USA,Pending
+383,426,8/16/2024 23:37,625.18,Andersen-Chung,Clothing,Boise,Idaho,USA,Failed
+384,83,10/17/2020 5:01,1616.69,Singh-Murray,Restaurants,Lincoln,Nebraska,USA,Failed
+385,434,11/18/2020 14:24,398.91,Larsen and Sons,Restaurants,Topeka,Kansas,USA,Pending
+386,65,5/28/2023 11:20,3126.99,Lopez-Neal,Electronics,Frankfort,Kentucky,USA,Pending
+387,304,12/2/2020 19:42,4708.33,Lyons-Fischer,Clothing,Jefferson City,Missouri,USA,Completed
+388,432,11/17/2023 12:17,4620.03,Henry Group,Grocery,Pierre,South Dakota,USA,Completed
+389,24,10/26/2022 0:12,4742.99,"Mccarthy, Campbell and Pruitt",Gas Station,Springfield,Illinois,USA,Pending
+390,393,8/14/2021 15:58,2862.83,Mueller-Berg,Grocery,Santa Fe,New Mexico,USA,Failed
+391,329,1/13/2023 3:13,4783.47,Richmond-Roberts,Entertainment,Raleigh,North Carolina,USA,Completed
+392,153,4/10/2020 12:44,2270.45,Ray Group,Grocery,Jefferson City,Missouri,USA,Completed
+393,213,4/20/2022 5:52,2423.83,"Pugh, Hubbard and Dennis",Restaurants,Providence,Rhode Island,USA,Failed
+394,161,7/13/2020 2:35,4308.12,King-Mckinney,Travel,Albany,New York,USA,Pending
+395,500,10/15/2022 7:06,1996.59,Golden PLC,Travel,Boise,Idaho,USA,Pending
+396,164,5/11/2023 1:17,1212.48,"Rowland, Taylor and Ramirez",Electronics,Madison,Wisconsin,USA,Failed
+397,127,11/13/2020 6:29,708.68,Allen Inc,Grocery,Raleigh,North Carolina,USA,Failed
+398,443,4/30/2020 16:11,3078.81,Mclaughlin PLC,Restaurants,Honolulu,Hawaii,USA,Completed
+399,479,3/3/2021 13:36,2890.55,Lewis-Patterson,Travel,Albany,New York,USA,Completed
+400,256,3/3/2021 3:42,4979.87,"Wallace, Mercer and Gordon",Entertainment,Jefferson City,Missouri,USA,Failed
+401,255,8/9/2020 9:13,120.77,Carlson-Landry,Pharmacy,Des Moines,Iowa,USA,Pending
+402,495,9/12/2023 7:48,1207.44,Martinez-Robinson,Travel,Concord,New Hampshire,USA,Completed
+403,145,4/14/2020 21:35,2477,Thomas PLC,Entertainment,Albany,New York,USA,Failed
+404,434,7/9/2023 8:01,541.95,"Daniel, Collins and Osborne",Clothing,Lansing,Michigan,USA,Failed
+405,392,10/6/2023 3:42,2019.25,"Gibson, Leblanc and Williams",Grocery,Annapolis,Maryland,USA,Failed
+406,292,9/13/2023 18:17,2811.28,Hanna LLC,Travel,Trenton,New Jersey,USA,Pending
+407,38,3/13/2021 18:54,1934.81,Lane-Carpenter,Entertainment,Sacramento,California,USA,Pending
+408,423,10/18/2020 23:29,4945.51,"Carroll, Mccormick and Mueller",Electronics,Lansing,Michigan,USA,Completed
+409,202,3/4/2024 2:16,1869.13,"Middleton, Padilla and Cabrera",Travel,Honolulu,Hawaii,USA,Pending
+410,387,5/25/2020 18:59,725.62,"Lewis, Davis and Oconnell",Pharmacy,Albany,New York,USA,Pending
+411,24,1/20/2024 9:54,199.38,Campbell and Sons,Travel,Little Rock,Arkansas,USA,Failed
+412,77,8/30/2024 13:31,3033.27,Hernandez-Mack,Clothing,Providence,Rhode Island,USA,Failed
+413,84,7/31/2022 4:53,1967.81,"Mullins, Raymond and Scott",Gas Station,Denver,Colorado,USA,Pending
+414,260,9/17/2020 11:31,4142.31,Clay PLC,Entertainment,Hartford,Connecticut,USA,Pending
+415,244,1/21/2021 6:27,4079.67,Lopez PLC,Travel,Des Moines,Iowa,USA,Failed
+416,214,1/25/2020 20:31,2920.59,Johnson-Elliott,Grocery,Topeka,Kansas,USA,Pending
+417,136,2/20/2020 16:36,4835.52,Price-Bates,Restaurants,Springfield,Illinois,USA,Pending
+418,299,11/21/2022 23:23,2404.84,Smith-King,Pharmacy,Salt Lake City,Utah,USA,Completed
+419,17,6/29/2023 15:07,2864.99,Gibson-Baker,Electronics,Dover,Delaware,USA,Completed
+420,226,3/24/2024 18:56,1571.89,Hall Inc,Clothing,Jefferson City,Missouri,USA,Failed
+421,211,10/7/2021 15:17,2511.59,Williams Ltd,Entertainment,Columbus,Ohio,USA,Pending
+422,362,8/5/2022 11:49,694.72,Young-Murphy,Restaurants,Indianapolis,Indiana,USA,Pending
+423,340,8/4/2020 12:38,2394.46,"Stewart, Pineda and Wilson",Pharmacy,Atlanta,Georgia,USA,Failed
+424,236,9/20/2020 7:24,4561.06,Thompson Ltd,Travel,Denver,Colorado,USA,Pending
+425,347,6/10/2021 22:55,3861.09,Carter-Montoya,Gas Station,Salem,Oregon,USA,Pending
+426,99,10/4/2021 19:47,4786.9,Owen LLC,Gas Station,Carson City,Nevada,USA,Pending
+427,116,3/21/2024 6:41,4707.72,"Smith, Daniels and Vasquez",Gas Station,Boise,Idaho,USA,Failed
+428,354,6/11/2022 18:26,3526.42,Welch Inc,Travel,Phoenix,Arizona,USA,Failed
+429,287,12/18/2021 23:38,4668.83,Morgan LLC,Gas Station,Hartford,Connecticut,USA,Failed
+430,294,12/29/2019 15:31,3384.73,Reyes Ltd,Pharmacy,Santa Fe,New Mexico,USA,Failed
+431,489,10/13/2023 5:23,3866.46,Blair Inc,Clothing,Little Rock,Arkansas,USA,Failed
+432,148,4/10/2022 8:57,4776.79,"Hall, Vasquez and Gonzalez",Electronics,Des Moines,Iowa,USA,Failed
+433,336,11/9/2022 11:24,1285.94,Campbell-Lopez,Entertainment,Charleston,West Virginia,USA,Completed
+434,424,8/8/2022 20:58,2695.2,Watson Group,Gas Station,Atlanta,Georgia,USA,Completed
+435,316,11/29/2021 17:19,3705.75,Perry-Branch,Restaurants,Lansing,Michigan,USA,Completed
+436,343,2/13/2024 23:29,4526.4,Thompson-Collins,Restaurants,Lincoln,Nebraska,USA,Pending
+437,27,4/1/2021 12:09,505.49,Wallace-Bowen,Travel,Des Moines,Iowa,USA,Pending
+438,52,3/7/2022 12:31,3407.55,Johnson-Simpson,Clothing,Columbia,South Carolina,USA,Completed
+439,209,8/13/2020 23:50,3266.2,Boyle Group,Entertainment,Oklahoma City,Oklahoma,USA,Failed
+440,388,9/14/2023 13:47,4819.75,"Hernandez, Adams and Miller",Travel,Frankfort,Kentucky,USA,Failed
+441,465,12/17/2019 9:48,3844.78,Crawford-Sanchez,Restaurants,Dover,Delaware,USA,Pending
+442,468,6/27/2022 2:02,4607.75,Malone LLC,Pharmacy,Salt Lake City,Utah,USA,Completed
+443,429,9/24/2024 10:48,1987.99,"James, Reed and Mcclain",Entertainment,Salt Lake City,Utah,USA,Completed
+444,449,11/12/2020 8:18,192.14,"Johnson, Griffith and Montoya",Gas Station,Augusta,Maine,USA,Pending
+445,476,2/26/2020 20:57,4915.05,"Mitchell, Smith and Johnson",Gas Station,Jefferson City,Missouri,USA,Failed
+446,456,5/5/2021 5:40,4693.11,Vincent-Smith,Entertainment,Atlanta,Georgia,USA,Failed
+447,415,4/24/2021 23:27,567.67,Scott-Morgan,Clothing,Hartford,Connecticut,USA,Pending
+448,332,1/10/2022 14:09,1290.04,Cobb-Baker,Clothing,Albany,New York,USA,Completed
+449,405,2/14/2023 2:22,1478.65,"Hayes, Ford and Flores",Restaurants,Oklahoma City,Oklahoma,USA,Completed
+450,424,12/13/2021 17:58,2141.38,Novak Ltd,Travel,Frankfort,Kentucky,USA,Completed
+451,343,10/3/2024 23:01,481.45,"Mosley, Sparks and Gonzalez",Clothing,Helena,Montana,USA,Failed
+452,480,6/3/2022 3:27,1244,Smith PLC,Gas Station,Columbia,South Carolina,USA,Failed
+453,229,6/15/2020 20:29,3770.01,"Morris, Duncan and Powell",Travel,Indianapolis,Indiana,USA,Failed
+454,134,12/14/2023 14:52,3270.15,Mckay Group,Restaurants,Little Rock,Arkansas,USA,Completed
+455,239,11/14/2021 19:07,1537.5,Little-Hammond,Pharmacy,Atlanta,Georgia,USA,Pending
+456,354,9/23/2023 2:29,591.49,"Long, Brooks and Fields",Gas Station,Columbia,South Carolina,USA,Failed
+457,113,6/7/2020 20:21,4787.02,"Jarvis, Meza and Jarvis",Entertainment,Frankfort,Kentucky,USA,Completed
+458,383,3/10/2023 4:11,4944.25,"Stokes, Cooley and Young",Travel,Indianapolis,Indiana,USA,Failed
+459,388,7/13/2024 19:37,2689.9,Nguyen-Bates,Restaurants,Raleigh,North Carolina,USA,Completed
+460,270,7/13/2020 16:09,2236.51,"Lee, Jackson and Goodwin",Travel,Cheyenne,Wyoming,USA,Completed
+461,32,10/27/2021 17:00,4144.73,"Mcintosh, Thompson and Evans",Restaurants,Concord,New Hampshire,USA,Pending
+462,85,5/15/2021 1:54,1643.95,Goodman-Gilbert,Entertainment,Pierre,South Dakota,USA,Completed
+463,368,6/26/2023 7:39,2917.82,"Baker, Miller and Villanueva",Electronics,Trenton,New Jersey,USA,Pending
+464,415,12/11/2022 23:32,282.9,"Nash, Daniels and Morgan",Clothing,Boston,Massachusetts,USA,Pending
+465,234,12/5/2020 21:38,2821.74,Hunt PLC,Entertainment,Frankfort,Kentucky,USA,Pending
+466,371,3/30/2022 14:33,113.74,Smith Inc,Gas Station,Tallahassee,Florida,USA,Completed
+467,297,1/18/2023 7:52,369.78,Knapp Group,Pharmacy,Santa Fe,New Mexico,USA,Failed
+468,278,1/19/2022 12:09,4970.65,"Phillips, Humphrey and Brown",Electronics,Dover,Delaware,USA,Failed
+469,147,7/3/2020 21:40,2047.29,Coleman LLC,Clothing,Salt Lake City,Utah,USA,Pending
+470,192,4/27/2022 13:04,4964.32,"Macias, Watkins and Humphrey",Pharmacy,Augusta,Maine,USA,Failed
+471,193,7/22/2020 2:58,405.85,Collins Group,Clothing,Denver,Colorado,USA,Pending
+472,61,7/28/2024 2:06,896.48,Bruce-Cook,Pharmacy,Jefferson City,Missouri,USA,Pending
+473,373,5/4/2020 1:29,4893.73,Rodriguez PLC,Grocery,Carson City,Nevada,USA,Completed
+474,238,5/9/2022 17:58,3369.13,"Macias, Olson and Lang",Pharmacy,Lincoln,Nebraska,USA,Pending
+475,422,1/27/2022 6:27,1152.17,Fox-Long,Entertainment,Hartford,Connecticut,USA,Failed
+476,142,5/13/2020 5:17,946.46,Ortiz and Sons,Electronics,Little Rock,Arkansas,USA,Completed
+477,315,5/11/2023 11:19,3831.44,Wilson-Stein,Grocery,Juneau,Alaska,USA,Completed
+478,35,11/13/2023 10:36,508.98,"Wallace, Villarreal and Weber",Grocery,Montgomery,Alabama,USA,Failed
+479,126,1/2/2023 18:14,3704,Pacheco-Schroeder,Pharmacy,Saint Paul,Minnesota,USA,Failed
+480,277,5/15/2020 15:22,1090.26,Russell-Clark,Grocery,Pierre,South Dakota,USA,Completed
+481,120,9/21/2021 2:25,4079.85,Bishop-Holland,Travel,Hartford,Connecticut,USA,Pending
+482,122,3/20/2022 18:43,1512.31,Ferguson Ltd,Clothing,Jackson,Mississippi,USA,Pending
+483,212,9/22/2021 2:17,1506,"Castro, Thomas and Gould",Grocery,Little Rock,Arkansas,USA,Pending
+484,321,9/8/2020 5:10,3395.36,Scott PLC,Entertainment,Indianapolis,Indiana,USA,Completed
+485,483,11/22/2022 23:15,3218.36,Garcia-Banks,Pharmacy,Jackson,Mississippi,USA,Pending
+486,357,11/9/2019 18:56,2084.54,"Kelly, Lee and Taylor",Clothing,Boston,Massachusetts,USA,Failed
+487,95,8/22/2021 20:58,3773.31,"Cunningham, Flynn and Roberts",Entertainment,Lansing,Michigan,USA,Completed
+488,154,11/16/2022 13:07,4288.42,Gordon-Griffin,Clothing,Salt Lake City,Utah,USA,Failed
+489,288,11/10/2023 11:52,2066.32,Hicks PLC,Pharmacy,Bismarck,North Dakota,USA,Pending
+490,199,8/19/2020 5:59,1218.08,"Maynard, Norris and Smith",Restaurants,Olympia,Washington,USA,Failed
+491,473,8/17/2023 17:39,2251.69,"Huang, Marshall and Johnson",Travel,Harrisburg,Pennsylvania,USA,Completed
+492,27,8/11/2021 17:27,1345.97,"Diaz, Jackson and Garza",Grocery,Montpelier,Vermont,USA,Completed
+493,412,4/20/2022 13:51,3809.67,Smith PLC,Restaurants,Tallahassee,Florida,USA,Failed
+494,446,12/7/2023 5:05,4535.63,Barton and Sons,Gas Station,Olympia,Washington,USA,Completed
+495,480,2/24/2020 0:37,954.17,Rush and Sons,Electronics,Lincoln,Nebraska,USA,Pending
+496,469,5/18/2023 9:56,1216.75,"Newton, Fitzgerald and Hayes",Restaurants,Olympia,Washington,USA,Failed
+497,283,1/26/2020 0:42,1611.47,"Sellers, Gonzalez and Lin",Gas Station,Oklahoma City,Oklahoma,USA,Failed
+498,274,1/23/2022 23:22,3245.36,Dunn Group,Gas Station,Dover,Delaware,USA,Failed
+499,263,5/28/2021 16:00,4414.65,Santiago-Dunn,Entertainment,Hartford,Connecticut,USA,Completed
+500,390,7/21/2023 1:21,4199.46,"Brewer, Schultz and Barnes",Restaurants,Cheyenne,Wyoming,USA,Failed
+501,212,11/14/2022 16:06,233.35,Roth Inc,Restaurants,Little Rock,Arkansas,USA,Pending
+502,9,4/24/2021 19:42,1307.57,Lee-Anderson,Pharmacy,Pierre,South Dakota,USA,Failed
+503,101,3/8/2020 1:14,1652.68,"Stewart, Ford and Hall",Pharmacy,Boston,Massachusetts,USA,Pending
+504,256,10/28/2019 1:39,2755.46,Cummings-Williams,Travel,Salt Lake City,Utah,USA,Failed
+505,495,11/16/2021 20:41,3619.17,Williams Inc,Entertainment,Dover,Delaware,USA,Failed
+506,376,2/8/2023 13:33,3975.9,"Preston, Griffith and Jackson",Clothing,Montgomery,Alabama,USA,Completed
+507,95,5/16/2022 11:03,4584.91,Jennings Ltd,Grocery,Juneau,Alaska,USA,Pending
+508,430,2/7/2020 11:21,4234.25,Young-Kirby,Grocery,Salem,Oregon,USA,Completed
+509,71,3/13/2021 23:03,4213.51,"Evans, Brown and Vasquez",Restaurants,Columbus,Ohio,USA,Completed
+510,5,6/9/2023 20:46,1097.5,Stevens PLC,Entertainment,Santa Fe,New Mexico,USA,Failed
+511,317,9/17/2022 12:42,3190.45,"Black, Chen and Higgins",Entertainment,Austin,Texas,USA,Pending
+512,9,10/18/2024 1:14,38.03,"Smith, Webb and Wood",Pharmacy,Providence,Rhode Island,USA,Completed
+513,272,11/23/2020 2:13,3612.35,"Wood, Byrd and Marshall",Gas Station,Bismarck,North Dakota,USA,Completed
+514,413,2/2/2023 14:22,4698.86,Wilson-James,Clothing,Juneau,Alaska,USA,Completed
+515,269,1/26/2020 21:38,748.74,Day LLC,Restaurants,Jefferson City,Missouri,USA,Pending
+516,418,3/5/2024 20:05,1775.43,Green-Murray,Pharmacy,Olympia,Washington,USA,Completed
+517,492,5/9/2020 10:54,2033.11,"Frey, Taylor and Walker",Restaurants,Columbia,South Carolina,USA,Pending
+518,154,1/30/2023 9:19,3421.79,Burns PLC,Electronics,Lansing,Michigan,USA,Pending
+519,48,10/17/2023 0:31,2029.37,Watts-Patterson,Pharmacy,Lansing,Michigan,USA,Pending
+520,29,2/22/2021 16:41,3185.56,"Li, Riggs and Miller",Clothing,Phoenix,Arizona,USA,Completed
+521,433,9/30/2021 23:29,2172.38,"Montgomery, Floyd and Rice",Travel,Juneau,Alaska,USA,Pending
+522,459,8/6/2024 14:08,2643.16,Wilkerson-Rice,Grocery,Albany,New York,USA,Completed
+523,462,4/27/2023 7:23,4341.24,Kidd Ltd,Entertainment,Lansing,Michigan,USA,Failed
+524,474,3/11/2024 16:43,376.37,"Richardson, Acevedo and Anderson",Gas Station,Boise,Idaho,USA,Pending
+525,92,2/28/2023 13:08,4644.19,Wolfe Group,Travel,Lincoln,Nebraska,USA,Completed
+526,301,6/3/2021 8:06,725.24,"Sanchez, Tran and Griffith",Pharmacy,Boston,Massachusetts,USA,Completed
+527,84,5/22/2022 7:11,2821.97,Conner PLC,Pharmacy,Juneau,Alaska,USA,Pending
+528,197,5/29/2021 13:43,3779.27,Singleton-Ewing,Clothing,Springfield,Illinois,USA,Pending
+529,257,3/2/2020 5:45,3728.56,Kelly Ltd,Travel,Little Rock,Arkansas,USA,Completed
+530,224,8/19/2023 11:03,1164.56,Hawkins-Riley,Electronics,Saint Paul,Minnesota,USA,Failed
+531,497,7/1/2024 18:39,3868.91,"Noble, Stewart and Taylor",Grocery,Harrisburg,Pennsylvania,USA,Pending
+532,402,5/24/2023 20:33,4962.97,Walters-Whitehead,Entertainment,Montgomery,Alabama,USA,Completed
+533,284,6/27/2024 10:48,4706.01,Palmer and Sons,Pharmacy,Concord,New Hampshire,USA,Completed
+534,44,8/3/2021 22:21,3861.98,Villanueva Ltd,Gas Station,Carson City,Nevada,USA,Completed
+535,43,4/4/2024 17:16,1343.52,Anderson PLC,Pharmacy,Salt Lake City,Utah,USA,Pending
+536,379,12/27/2019 3:01,1951.16,"Austin, Wilkins and Wallace",Travel,Boston,Massachusetts,USA,Completed
+537,3,12/8/2023 10:20,4715.09,Jimenez-Preston,Entertainment,Cheyenne,Wyoming,USA,Failed
+538,53,8/2/2024 9:58,666.87,Hansen-Hawkins,Clothing,Columbia,South Carolina,USA,Failed
+539,286,7/13/2020 4:04,2775.93,Howe and Sons,Pharmacy,Richmond,Virginia,USA,Completed
+540,46,8/27/2020 6:57,1772.8,"Frazier, Mills and Gilbert",Electronics,Frankfort,Kentucky,USA,Pending
+541,443,7/20/2022 4:37,1929.26,Ramirez-Cain,Gas Station,Honolulu,Hawaii,USA,Failed
+542,399,11/21/2022 15:00,428.07,"Richards, Mayer and Rivera",Restaurants,Boise,Idaho,USA,Pending
+543,351,1/26/2021 14:23,1906.76,Diaz Ltd,Clothing,Harrisburg,Pennsylvania,USA,Failed
+544,138,7/12/2020 23:52,2468.15,Miller-Solomon,Electronics,Augusta,Maine,USA,Completed
+545,142,3/14/2021 15:03,2108.41,"Palmer, Garcia and Wells",Entertainment,Hartford,Connecticut,USA,Completed
+546,129,6/15/2020 20:15,4721.39,"Le, Harris and Walls",Entertainment,Richmond,Virginia,USA,Pending
+547,235,1/15/2020 18:41,539.33,"Schneider, Thornton and Waters",Gas Station,Providence,Rhode Island,USA,Completed
+548,171,1/6/2020 7:22,4208.86,"Lopez, Stanley and Cox",Pharmacy,Concord,New Hampshire,USA,Failed
+549,172,4/16/2023 19:47,2155.93,Miles and Sons,Clothing,Boise,Idaho,USA,Failed
+550,309,2/27/2020 15:49,4736.66,Frazier-Perry,Restaurants,Augusta,Maine,USA,Failed
+551,91,12/10/2019 5:14,4823.05,White-Trevino,Travel,Phoenix,Arizona,USA,Failed
+552,496,12/16/2023 19:49,2881.52,"Wright, Delgado and Frey",Restaurants,Montgomery,Alabama,USA,Failed
+553,144,12/28/2022 22:06,4083.39,Watkins-Mitchell,Pharmacy,Richmond,Virginia,USA,Failed
+554,478,5/1/2022 3:37,2821.43,"Burton, Galloway and Young",Clothing,Nashville,Tennessee,USA,Pending
+555,488,1/30/2023 5:14,3637.43,Martinez-Gomez,Restaurants,Pierre,South Dakota,USA,Failed
+556,426,9/6/2021 16:03,3465.71,Booth-Young,Pharmacy,Annapolis,Maryland,USA,Pending
+557,72,11/3/2022 15:21,3168.51,Obrien-Collins,Restaurants,Honolulu,Hawaii,USA,Failed
+558,367,5/19/2022 8:18,2118.52,Reyes Inc,Pharmacy,Dover,Delaware,USA,Completed
+559,307,12/31/2023 21:11,2398.78,"Huynh, Robbins and Reed",Pharmacy,Denver,Colorado,USA,Pending
+560,279,8/15/2021 12:50,188.64,Dudley Group,Travel,Honolulu,Hawaii,USA,Pending
+561,56,2/17/2022 21:12,3845.93,Ortega-Webster,Travel,Trenton,New Jersey,USA,Completed
+562,289,3/1/2022 6:18,4918.12,Sutton-Vasquez,Pharmacy,Tallahassee,Florida,USA,Failed
+563,55,2/28/2022 4:44,57.69,Khan-Acosta,Gas Station,Helena,Montana,USA,Completed
+564,229,1/27/2022 2:00,1873.73,"Chambers, Orr and Browning",Entertainment,Boise,Idaho,USA,Pending
+565,177,9/21/2021 10:50,4988.53,"Smith, Williams and Russell",Entertainment,Montgomery,Alabama,USA,Completed
+566,213,10/11/2020 11:18,4603.13,"Luna, Benton and Baker",Electronics,Oklahoma City,Oklahoma,USA,Completed
+567,179,4/25/2021 12:21,1562.89,Green-Dunlap,Entertainment,Jefferson City,Missouri,USA,Completed
+568,179,3/20/2021 5:12,2383.43,Park Inc,Entertainment,Boise,Idaho,USA,Pending
+569,164,10/23/2020 8:21,340.54,Oneill LLC,Grocery,Salt Lake City,Utah,USA,Pending
+570,12,10/4/2021 9:03,4246.65,Johnson-Rivera,Electronics,Carson City,Nevada,USA,Pending
+571,477,3/23/2021 11:14,4919.58,Chandler Ltd,Restaurants,Madison,Wisconsin,USA,Pending
+572,283,4/7/2021 8:10,804.88,Stone and Sons,Pharmacy,Annapolis,Maryland,USA,Failed
+573,409,4/6/2022 7:30,2028.21,"Ellis, Sanders and Morales",Clothing,Boston,Massachusetts,USA,Completed
+574,203,2/22/2021 14:24,150.82,Jackson Group,Restaurants,Montpelier,Vermont,USA,Failed
+575,200,9/19/2023 19:44,27.23,Rhodes Ltd,Restaurants,Boston,Massachusetts,USA,Completed
+576,386,4/5/2021 8:27,3520.28,Robertson Ltd,Electronics,Denver,Colorado,USA,Pending
+577,410,4/24/2021 14:02,4360.54,Schroeder-Gill,Clothing,Columbus,Ohio,USA,Failed
+578,101,12/24/2021 4:37,2290.46,Warren-Bradford,Gas Station,Nashville,Tennessee,USA,Pending
+579,271,9/11/2020 1:09,4829.75,Rogers Inc,Travel,Lansing,Michigan,USA,Pending
+580,313,7/15/2021 3:50,1965.76,Garcia PLC,Electronics,Madison,Wisconsin,USA,Failed
+581,433,11/27/2023 17:36,2292.01,Mcdaniel-Lloyd,Clothing,Columbia,South Carolina,USA,Pending
+582,471,3/10/2023 3:21,3074.35,Martinez and Sons,Electronics,Charleston,West Virginia,USA,Pending
+583,161,9/11/2022 13:43,593.72,"Boyer, Wilkinson and Anderson",Gas Station,Hartford,Connecticut,USA,Completed
+584,192,3/3/2022 8:13,3468.72,Riggs-Estrada,Pharmacy,Atlanta,Georgia,USA,Failed
+585,295,2/5/2020 15:25,1921.63,"Rice, Raymond and Morales",Clothing,Sacramento,California,USA,Failed
+586,285,5/6/2024 12:46,838.49,"Smith, Woods and Clark",Gas Station,Pierre,South Dakota,USA,Completed
+587,162,8/2/2021 1:35,4210.72,Ryan and Sons,Grocery,Salem,Oregon,USA,Failed
+588,249,9/1/2021 12:48,686.99,Winters PLC,Pharmacy,Phoenix,Arizona,USA,Pending
+589,210,5/31/2020 11:45,3425.06,Cobb and Sons,Pharmacy,Santa Fe,New Mexico,USA,Pending
+590,251,11/21/2020 1:13,840.43,Weber Inc,Grocery,Honolulu,Hawaii,USA,Completed
+591,17,4/17/2021 18:09,1377.89,Collins-Phelps,Gas Station,Santa Fe,New Mexico,USA,Completed
+592,290,7/2/2021 19:34,3713.88,Stuart Inc,Entertainment,Columbia,South Carolina,USA,Pending
+593,294,4/24/2020 5:54,575.46,"Dean, Mueller and Gibson",Travel,Columbus,Ohio,USA,Pending
+594,390,6/16/2024 10:07,3596.31,Scott and Sons,Restaurants,Sacramento,California,USA,Failed
+595,377,12/30/2019 9:31,4151.2,Daniels Group,Restaurants,Santa Fe,New Mexico,USA,Failed
+596,231,11/7/2023 2:44,1317.76,Johnson-Sullivan,Electronics,Frankfort,Kentucky,USA,Failed
+597,398,8/2/2023 22:22,4060.39,Hardy and Sons,Restaurants,Santa Fe,New Mexico,USA,Pending
+598,441,12/21/2020 4:45,3555.22,Baird and Sons,Pharmacy,Madison,Wisconsin,USA,Completed
+599,402,3/19/2020 12:08,1037.07,Holt and Sons,Restaurants,Annapolis,Maryland,USA,Completed
+600,273,6/28/2024 9:19,1409.02,Valdez and Sons,Clothing,Montgomery,Alabama,USA,Failed
+601,149,1/25/2020 20:01,2865.81,Chavez-Glenn,Electronics,Lansing,Michigan,USA,Completed
+602,471,10/23/2024 20:14,301.13,Mcgee PLC,Gas Station,Santa Fe,New Mexico,USA,Pending
+603,360,5/27/2023 14:23,4331.06,"Avila, Gregory and Wilson",Restaurants,Springfield,Illinois,USA,Completed
+604,425,8/12/2020 22:57,1241.54,"Collier, Mcintyre and Parker",Pharmacy,Springfield,Illinois,USA,Failed
+605,296,7/7/2022 20:09,3163.85,Pope Ltd,Pharmacy,Montpelier,Vermont,USA,Failed
+606,39,11/12/2022 13:46,3169.97,Gross LLC,Electronics,Annapolis,Maryland,USA,Failed
+607,356,9/19/2024 17:17,4682,Bender-Morgan,Travel,Harrisburg,Pennsylvania,USA,Failed
+608,168,4/7/2022 6:53,2911.87,Manning PLC,Electronics,Columbia,South Carolina,USA,Pending
+609,326,9/14/2024 11:02,3322.4,Roth Inc,Travel,Albany,New York,USA,Completed
+610,112,9/11/2020 14:45,4840.8,Boyd-Stewart,Restaurants,Boise,Idaho,USA,Failed
+611,166,4/27/2024 23:12,4142.58,Crosby LLC,Travel,Little Rock,Arkansas,USA,Pending
+612,290,1/25/2024 13:17,4262.85,"Gibbs, Green and Scott",Travel,Phoenix,Arizona,USA,Pending
+613,24,10/28/2022 20:57,502.38,Hicks-Curry,Entertainment,Albany,New York,USA,Completed
+614,476,9/24/2023 2:42,4288.97,Villanueva Inc,Entertainment,Salem,Oregon,USA,Failed
+615,491,8/14/2023 3:58,2141.86,"Jackson, Thompson and Rodriguez",Clothing,Salem,Oregon,USA,Pending
+616,82,8/8/2022 3:26,4372.74,"Cunningham, Eaton and Bass",Gas Station,Bismarck,North Dakota,USA,Completed
+617,129,3/9/2023 18:09,416.69,Franklin-Garcia,Clothing,Springfield,Illinois,USA,Completed
+618,321,4/19/2024 13:18,1531.02,"Martin, Phillips and Johnson",Restaurants,Tallahassee,Florida,USA,Failed
+619,361,5/20/2024 6:25,480.44,Moore-Cole,Restaurants,Albany,New York,USA,Failed
+620,68,5/28/2020 10:00,2970.43,"Curtis, Smith and Mcguire",Entertainment,Boston,Massachusetts,USA,Completed
+621,357,12/21/2020 20:24,1721.15,"Jenkins, Mcdonald and Chang",Electronics,Pierre,South Dakota,USA,Failed
+622,245,6/28/2022 2:51,358.79,Crosby LLC,Pharmacy,Springfield,Illinois,USA,Completed
+623,53,4/17/2024 17:19,1570.19,Lee Ltd,Gas Station,Montpelier,Vermont,USA,Completed
+624,397,2/25/2021 7:45,4067.77,"Wade, Wood and Klein",Clothing,Springfield,Illinois,USA,Pending
+625,36,5/27/2024 6:16,2654.89,"Barker, Patel and Ford",Grocery,Helena,Montana,USA,Pending
+626,226,3/10/2024 19:34,1759.18,Price PLC,Restaurants,Des Moines,Iowa,USA,Pending
+627,471,11/6/2023 14:15,2061.49,"Hall, Blackburn and Goodwin",Entertainment,Springfield,Illinois,USA,Completed
+628,460,10/15/2020 10:56,506.82,Brown-Martin,Electronics,Honolulu,Hawaii,USA,Pending
+629,180,2/13/2021 17:19,4816.43,Kramer-Peters,Travel,Helena,Montana,USA,Completed
+630,142,9/15/2021 23:42,3224.88,Daniels-Thomas,Restaurants,Salt Lake City,Utah,USA,Pending
+631,399,5/28/2020 9:31,4706.69,Todd-Dyer,Grocery,Tallahassee,Florida,USA,Pending
+632,106,4/8/2024 19:50,2591.16,"Clark, Bullock and Stewart",Restaurants,Atlanta,Georgia,USA,Pending
+633,152,2/17/2021 15:54,3232.62,Freeman-Richards,Restaurants,Springfield,Illinois,USA,Failed
+634,58,11/23/2021 8:15,1209.2,"Martinez, Campos and Anderson",Electronics,Juneau,Alaska,USA,Pending
+635,185,1/24/2022 23:48,4669.95,"Norton, Mcdowell and Nunez",Clothing,Providence,Rhode Island,USA,Failed
+636,188,8/21/2024 0:02,2734.05,Roberts PLC,Clothing,Lansing,Michigan,USA,Failed
+637,9,12/26/2023 8:07,2938.88,Martinez Ltd,Grocery,Des Moines,Iowa,USA,Failed
+638,21,7/18/2022 12:00,4613.28,Ruiz-Jordan,Pharmacy,Montpelier,Vermont,USA,Pending
+639,322,8/13/2024 4:05,3564.58,Johnson-Anderson,Pharmacy,Carson City,Nevada,USA,Failed
+640,43,8/24/2022 5:51,3204.48,Decker Inc,Clothing,Olympia,Washington,USA,Failed
+641,159,7/28/2024 3:26,399.71,"West, Butler and Brown",Restaurants,Madison,Wisconsin,USA,Completed
+642,201,7/23/2021 0:23,2934.25,"Gallagher, Sullivan and Williams",Electronics,Charleston,West Virginia,USA,Failed
+643,374,9/21/2020 12:18,4767.37,Allen Inc,Restaurants,Cheyenne,Wyoming,USA,Completed
+644,45,5/9/2023 18:38,4623.52,Cochran-Beck,Electronics,Madison,Wisconsin,USA,Failed
+645,159,1/13/2023 2:56,3332.07,Heath PLC,Clothing,Sacramento,California,USA,Completed
+646,363,7/14/2024 22:04,690.37,"Hudson, Cowan and Brown",Grocery,Concord,New Hampshire,USA,Completed
+647,488,1/1/2023 16:18,1736.79,Pierce-Adkins,Gas Station,Raleigh,North Carolina,USA,Completed
+648,65,10/18/2024 8:39,3750.13,Peterson Group,Gas Station,Austin,Texas,USA,Pending
+649,395,6/9/2022 6:43,4499.99,Brooks-Wheeler,Travel,Albany,New York,USA,Failed
+650,269,12/20/2023 13:46,324.04,Lawrence-Boyd,Electronics,Juneau,Alaska,USA,Failed
+651,262,4/28/2020 14:35,1803.82,Mitchell PLC,Entertainment,Oklahoma City,Oklahoma,USA,Pending
+652,189,11/10/2021 12:49,790.76,"Myers, Greene and Young",Electronics,Jefferson City,Missouri,USA,Pending
+653,117,11/27/2022 5:33,3705.2,James-Sanchez,Grocery,Phoenix,Arizona,USA,Completed
+654,126,6/7/2024 10:21,234.68,Armstrong and Sons,Travel,Augusta,Maine,USA,Failed
+655,92,4/9/2020 19:09,4656.14,Nguyen-Smith,Grocery,Nashville,Tennessee,USA,Pending
+656,115,12/7/2023 15:34,1612.4,"Valenzuela, Willis and Davenport",Pharmacy,Albany,New York,USA,Pending
+657,139,3/25/2023 7:03,4130.85,"Hall, Harris and Ayers",Travel,Hartford,Connecticut,USA,Completed
+658,92,2/22/2021 14:24,1119.81,"Murphy, Martin and French",Grocery,Columbus,Ohio,USA,Failed
+659,450,7/7/2024 19:47,2328.15,"Martin, Hernandez and Mays",Gas Station,Nashville,Tennessee,USA,Failed
+660,45,5/4/2020 16:18,2767.69,"Larson, Daniels and Patterson",Grocery,Helena,Montana,USA,Failed
+661,150,4/18/2020 20:49,2821.21,"Adams, Carter and Davidson",Gas Station,Topeka,Kansas,USA,Pending
+662,238,2/24/2021 8:11,1844.53,Parsons PLC,Entertainment,Nashville,Tennessee,USA,Completed
+663,78,11/5/2023 21:42,36.86,Hubbard-Mcpherson,Pharmacy,Saint Paul,Minnesota,USA,Completed
+664,278,2/4/2024 6:44,1735.39,Stephens-Webb,Grocery,Richmond,Virginia,USA,Failed
+665,389,1/21/2022 11:23,3288.23,"Walls, Carpenter and Ford",Gas Station,Montpelier,Vermont,USA,Completed
+666,272,7/25/2023 22:29,4915.66,Khan and Sons,Pharmacy,Albany,New York,USA,Failed
+667,498,5/18/2021 16:37,4984.81,"Alexander, Bates and Hughes",Gas Station,Phoenix,Arizona,USA,Completed
+668,472,3/2/2022 14:08,1161.21,Robinson-Woods,Pharmacy,Cheyenne,Wyoming,USA,Pending
+669,235,3/8/2022 4:31,4872.9,Foley-Franco,Electronics,Salem,Oregon,USA,Pending
+670,259,11/2/2019 3:17,671.9,Rodriguez Inc,Pharmacy,Tallahassee,Florida,USA,Completed
+671,223,4/19/2020 18:15,3313.91,Moore Group,Clothing,Baton Rouge,Louisiana,USA,Completed
+672,134,7/6/2024 3:13,4255.31,Brandt and Sons,Pharmacy,Augusta,Maine,USA,Pending
+673,163,10/21/2024 13:52,2266.53,"Fernandez, George and Smith",Restaurants,Richmond,Virginia,USA,Completed
+674,70,8/6/2021 11:02,3900.79,Reyes LLC,Electronics,Saint Paul,Minnesota,USA,Completed
+675,85,8/29/2023 8:54,2250.59,Jones-Harris,Travel,Santa Fe,New Mexico,USA,Failed
+676,275,6/22/2024 17:42,1794.65,Miranda Inc,Restaurants,Oklahoma City,Oklahoma,USA,Failed
+677,238,6/10/2022 1:30,1328.71,Washington-Conrad,Electronics,Concord,New Hampshire,USA,Completed
+678,414,8/10/2024 0:36,3431.84,Golden Group,Grocery,Albany,New York,USA,Completed
+679,76,12/5/2021 0:01,460.61,"Henderson, Powell and Yang",Restaurants,Pierre,South Dakota,USA,Failed
+680,263,1/20/2020 16:52,249.51,Nichols-Strickland,Gas Station,Phoenix,Arizona,USA,Failed
+681,16,12/20/2022 8:00,4760.72,"Vaughn, Castro and Marks",Entertainment,Oklahoma City,Oklahoma,USA,Pending
+682,49,6/1/2020 8:33,2312.91,"Garrison, Hickman and Burton",Clothing,Oklahoma City,Oklahoma,USA,Completed
+683,32,4/23/2024 13:21,4152.71,Yates PLC,Restaurants,Atlanta,Georgia,USA,Completed
+684,422,2/23/2020 7:12,2005.91,"Medina, West and Porter",Electronics,Lansing,Michigan,USA,Pending
+685,470,4/7/2021 22:18,4064.67,Gray and Sons,Grocery,Bismarck,North Dakota,USA,Completed
+686,463,4/14/2020 23:24,3231.7,Wells-Lee,Clothing,Charleston,West Virginia,USA,Completed
+687,63,4/15/2022 22:41,218.27,Villegas-Herrera,Entertainment,Honolulu,Hawaii,USA,Completed
+688,474,9/20/2020 15:02,2871.55,"Marshall, Swanson and Sutton",Pharmacy,Sacramento,California,USA,Failed
+689,196,12/16/2022 6:52,3417.65,Smith-Black,Clothing,Montgomery,Alabama,USA,Failed
+690,466,5/12/2022 16:47,939.82,Brown-Burns,Gas Station,Concord,New Hampshire,USA,Failed
+691,18,8/9/2024 15:10,3072.46,"Hernandez, Green and Foster",Restaurants,Annapolis,Maryland,USA,Pending
+692,256,6/24/2021 20:57,2062.9,Smith-Odonnell,Entertainment,Des Moines,Iowa,USA,Completed
+693,144,1/23/2020 18:40,1918.16,"Marquez, Castaneda and Mullins",Pharmacy,Sacramento,California,USA,Completed
+694,323,9/4/2023 21:20,4970.47,Jordan and Sons,Grocery,Saint Paul,Minnesota,USA,Failed
+695,246,5/7/2021 12:14,2724.87,Solis-Walker,Entertainment,Columbus,Ohio,USA,Failed
+696,199,9/30/2020 8:01,1355.83,Martinez and Sons,Grocery,Little Rock,Arkansas,USA,Failed
+697,16,12/10/2020 4:19,4479.35,"Ho, Ruiz and Porter",Gas Station,Phoenix,Arizona,USA,Completed
+698,272,10/2/2023 0:24,1790.38,Marquez LLC,Restaurants,Montgomery,Alabama,USA,Completed
+699,127,7/31/2021 17:52,3286.04,Jones-Griffin,Gas Station,Denver,Colorado,USA,Pending
+700,392,12/19/2022 6:53,4981.98,Scott PLC,Restaurants,Boston,Massachusetts,USA,Pending
+701,182,2/11/2024 2:11,4676.35,Hayes LLC,Clothing,Charleston,West Virginia,USA,Completed
+702,304,5/23/2021 15:49,1593.43,Mccoy Inc,Travel,Jackson,Mississippi,USA,Pending
+703,361,2/10/2020 15:16,3504.3,"Blanchard, Ward and Villarreal",Clothing,Columbus,Ohio,USA,Pending
+704,429,4/19/2024 8:10,4940.09,"Raymond, Davis and Carter",Entertainment,Richmond,Virginia,USA,Pending
+705,90,5/19/2022 8:18,2454.73,Leon-Walls,Electronics,Madison,Wisconsin,USA,Completed
+706,309,10/22/2024 1:10,1097.95,"Newman, Cruz and Adams",Entertainment,Des Moines,Iowa,USA,Completed
+707,470,3/19/2020 17:22,3072.6,"Watson, Kennedy and Yates",Clothing,Harrisburg,Pennsylvania,USA,Failed
+708,471,8/13/2022 14:42,4013.11,Johnson and Sons,Travel,Indianapolis,Indiana,USA,Completed
+709,76,5/21/2024 7:02,2935.11,"Patel, Allen and Harris",Clothing,Topeka,Kansas,USA,Completed
+710,492,5/16/2024 15:59,367.3,Brewer-Evans,Pharmacy,Little Rock,Arkansas,USA,Pending
+711,173,6/9/2021 15:17,1512.32,"Murphy, Santos and Bender",Clothing,Indianapolis,Indiana,USA,Completed
+712,406,7/15/2024 3:47,3198.13,"Fernandez, Knapp and Hall",Entertainment,Madison,Wisconsin,USA,Pending
+713,90,6/29/2023 17:03,3537.38,Torres-Lawrence,Travel,Albany,New York,USA,Completed
+714,194,8/17/2021 16:29,1537.58,Kelley LLC,Gas Station,Jackson,Mississippi,USA,Completed
+715,374,12/5/2022 12:56,13.98,Mcintyre Group,Pharmacy,Salt Lake City,Utah,USA,Pending
+716,94,9/8/2021 23:12,3013.93,Macias and Sons,Restaurants,Carson City,Nevada,USA,Pending
+717,480,3/11/2023 1:15,2483.44,Simmons Ltd,Travel,Little Rock,Arkansas,USA,Pending
+718,122,4/11/2024 23:59,1737.32,"Davis, Young and Li",Travel,Des Moines,Iowa,USA,Completed
+719,421,2/18/2022 0:25,3546.28,Perez Group,Travel,Helena,Montana,USA,Failed
+720,136,2/8/2020 2:40,1052.37,"Wright, Ward and Cohen",Electronics,Saint Paul,Minnesota,USA,Failed
+721,403,1/14/2023 23:06,544.63,Terry Inc,Grocery,Trenton,New Jersey,USA,Completed
+722,225,8/17/2020 11:37,3664.26,Williamson-Larson,Clothing,Annapolis,Maryland,USA,Failed
+723,452,9/13/2022 3:23,1896.67,Jones-Payne,Pharmacy,Augusta,Maine,USA,Completed
+724,404,8/25/2021 22:41,4320.93,"Ellis, Cooke and Cooper",Restaurants,Phoenix,Arizona,USA,Completed
+725,38,10/20/2022 15:38,3996.98,Dodson and Sons,Grocery,Little Rock,Arkansas,USA,Failed
+726,164,1/21/2023 22:33,1309.33,Andrade Inc,Electronics,Jefferson City,Missouri,USA,Completed
+727,88,10/23/2023 23:35,4440.22,Gomez LLC,Clothing,Cheyenne,Wyoming,USA,Pending
+728,281,7/17/2021 5:51,4709.46,"Farley, Watkins and Sparks",Electronics,Columbus,Ohio,USA,Failed
+729,361,9/14/2023 2:22,159.81,Hart PLC,Clothing,Jackson,Mississippi,USA,Pending
+730,81,2/7/2024 14:15,272.51,Ruiz-Park,Travel,Salem,Oregon,USA,Completed
+731,210,10/7/2023 20:56,3487.5,"Simpson, Osborne and Soto",Gas Station,Jefferson City,Missouri,USA,Pending
+732,153,2/2/2024 23:56,1191.55,Haynes Group,Grocery,Charleston,West Virginia,USA,Failed
+733,79,6/9/2021 12:40,277.25,Hill-Reed,Grocery,Frankfort,Kentucky,USA,Failed
+734,151,11/9/2019 5:56,4120.37,"Hicks, Morales and Carr",Entertainment,Helena,Montana,USA,Completed
+735,14,7/16/2021 20:15,1038.73,Mccall-Villa,Gas Station,Annapolis,Maryland,USA,Completed
+736,433,6/17/2024 18:48,581.97,Velazquez Inc,Pharmacy,Augusta,Maine,USA,Failed
+737,459,9/28/2022 20:35,3306.9,Le Inc,Electronics,Austin,Texas,USA,Pending
+738,95,11/24/2019 16:41,1858.25,Sutton Group,Pharmacy,Jefferson City,Missouri,USA,Failed
+739,229,9/21/2023 9:14,227.86,Miller-Levy,Entertainment,Montpelier,Vermont,USA,Failed
+740,116,4/9/2021 3:01,4186.21,Navarro-Lyons,Grocery,Denver,Colorado,USA,Completed
+741,44,4/15/2024 12:08,3342.37,Zavala and Sons,Pharmacy,Little Rock,Arkansas,USA,Pending
+742,284,6/2/2024 8:38,309.61,Johnson-Grant,Pharmacy,Carson City,Nevada,USA,Pending
+743,495,10/23/2023 21:54,2679.89,Villanueva-Perry,Entertainment,Santa Fe,New Mexico,USA,Pending
+744,244,11/6/2019 13:03,1497.77,"Kennedy, Smith and Garcia",Pharmacy,Nashville,Tennessee,USA,Pending
+745,258,9/1/2020 22:28,2858.24,"Schneider, Butler and Dunlap",Clothing,Raleigh,North Carolina,USA,Completed
+746,89,9/9/2021 3:18,4745.56,Wallace Ltd,Clothing,Columbia,South Carolina,USA,Completed
+747,65,6/17/2021 7:51,218.17,Cunningham-Miller,Electronics,Salt Lake City,Utah,USA,Pending
+748,104,2/13/2020 9:17,4986.36,Andrade-Bailey,Clothing,Phoenix,Arizona,USA,Pending
+749,164,6/20/2024 9:18,4554.47,"Santiago, Lynch and Ruiz",Electronics,Des Moines,Iowa,USA,Completed
+750,285,10/2/2024 8:30,1989.79,Rogers-Bradley,Travel,Lansing,Michigan,USA,Failed
+751,470,5/23/2024 23:00,4367.96,Duncan Inc,Pharmacy,Salem,Oregon,USA,Completed
+752,77,7/1/2022 9:03,745.26,Parker-Mccann,Electronics,Honolulu,Hawaii,USA,Completed
+753,403,1/7/2020 12:26,1434.03,"Young, Arias and Gonzalez",Travel,Phoenix,Arizona,USA,Failed
+754,197,1/1/2021 6:13,3275.66,Cummings and Sons,Entertainment,Charleston,West Virginia,USA,Completed
+755,142,6/30/2024 13:50,2017.85,"Mclean, Patel and Lee",Pharmacy,Honolulu,Hawaii,USA,Completed
+756,456,3/21/2023 16:02,4395.39,Harris Group,Restaurants,Lincoln,Nebraska,USA,Completed
+757,472,4/12/2024 21:13,1346.58,Klein Inc,Travel,Topeka,Kansas,USA,Completed
+758,419,5/22/2023 14:53,3969.29,Martin-Taylor,Gas Station,Boise,Idaho,USA,Failed
+759,440,8/4/2020 0:08,3482.43,Mack and Sons,Electronics,Phoenix,Arizona,USA,Completed
+760,154,5/22/2023 12:31,4871.23,"Simpson, Singh and Dixon",Entertainment,Phoenix,Arizona,USA,Failed
+761,374,6/15/2020 10:52,2086.78,Lopez Group,Electronics,Frankfort,Kentucky,USA,Completed
+762,109,11/1/2023 11:12,4567.6,"Fitzgerald, Perez and Santiago",Pharmacy,Atlanta,Georgia,USA,Pending
+763,389,9/22/2020 17:27,2584.92,"Wilkerson, Contreras and White",Travel,Hartford,Connecticut,USA,Completed
+764,34,9/26/2023 14:59,1559.06,Jordan-Brown,Pharmacy,Lincoln,Nebraska,USA,Completed
+765,89,9/23/2024 9:46,967.85,"Castillo, Smith and Powell",Restaurants,Dover,Delaware,USA,Completed
+766,17,10/7/2023 17:06,2284.96,"Rowland, Garrett and Sullivan",Travel,Jefferson City,Missouri,USA,Pending
+767,141,11/4/2020 17:20,1844.92,Schneider-Ross,Entertainment,Frankfort,Kentucky,USA,Pending
+768,326,3/10/2023 23:43,4615.75,"Crosby, Burke and Miller",Grocery,Austin,Texas,USA,Completed
+769,251,1/10/2022 21:00,2972.25,"Garcia, Walker and Green",Clothing,Boise,Idaho,USA,Failed
+770,177,1/1/2022 3:06,821.75,"Stone, Vaughan and Singh",Gas Station,Boston,Massachusetts,USA,Pending
+771,146,8/25/2020 6:27,142.12,"Ayala, Banks and Gray",Grocery,Providence,Rhode Island,USA,Completed
+772,439,12/7/2021 12:43,1110.65,Bird-Salinas,Restaurants,Sacramento,California,USA,Pending
+773,138,9/4/2023 8:53,3259.68,"Hensley, Castillo and Bell",Grocery,Annapolis,Maryland,USA,Pending
+774,243,7/21/2024 0:48,4558.02,Ferrell-Davis,Clothing,Montpelier,Vermont,USA,Pending
+775,115,7/30/2021 9:47,1265.69,Hutchinson-Curry,Gas Station,Denver,Colorado,USA,Pending
+776,217,5/22/2024 9:36,4477.94,"Henry, Patel and Calderon",Travel,Hartford,Connecticut,USA,Failed
+777,112,5/10/2023 9:17,2336.16,"Martinez, Levine and Bowers",Pharmacy,Des Moines,Iowa,USA,Pending
+778,4,10/24/2021 18:41,2560.01,Wright-Anderson,Travel,Cheyenne,Wyoming,USA,Pending
+779,153,1/3/2024 15:19,3423.64,Ortega PLC,Entertainment,Pierre,South Dakota,USA,Completed
+780,142,1/25/2021 17:05,3204.77,Farley-Johnson,Gas Station,Denver,Colorado,USA,Failed
+781,97,9/25/2022 4:21,753.9,Simmons PLC,Restaurants,Montgomery,Alabama,USA,Completed
+782,339,11/11/2020 9:41,1601.33,Lucero Ltd,Clothing,Springfield,Illinois,USA,Pending
+783,336,1/28/2024 1:12,2489.38,"Edwards, Baker and Campos",Gas Station,Little Rock,Arkansas,USA,Failed
+784,208,1/5/2022 14:41,1944.43,Dawson-Howard,Grocery,Little Rock,Arkansas,USA,Pending
+785,176,9/16/2021 16:04,3634.12,Trevino-Holland,Restaurants,Dover,Delaware,USA,Pending
+786,465,4/11/2024 14:09,4703.64,"Villarreal, Oneill and Villanueva",Travel,Raleigh,North Carolina,USA,Pending
+787,433,11/3/2021 13:00,854.08,Grant-Combs,Clothing,Salt Lake City,Utah,USA,Failed
+788,242,6/22/2023 6:01,644.08,Lawson-Yang,Gas Station,Nashville,Tennessee,USA,Pending
+789,485,10/21/2020 1:47,3400.16,Bell-Avila,Travel,Madison,Wisconsin,USA,Pending
+790,114,2/26/2020 19:06,1779.64,Byrd LLC,Gas Station,Tallahassee,Florida,USA,Failed
+791,191,3/5/2021 7:39,1306.49,Gardner-Page,Gas Station,Boston,Massachusetts,USA,Failed
+792,241,1/12/2022 12:37,273.12,"West, Wheeler and Carter",Electronics,Dover,Delaware,USA,Failed
+793,257,5/23/2020 0:09,603.48,"Silva, Massey and Snyder",Pharmacy,Atlanta,Georgia,USA,Pending
+794,212,1/15/2020 15:33,275.04,"Pace, Griffin and Lewis",Clothing,Helena,Montana,USA,Completed
+795,176,4/26/2022 12:35,2048.91,Morgan Ltd,Entertainment,Tallahassee,Florida,USA,Completed
+796,442,9/6/2024 22:11,3579.76,Le-Rice,Electronics,Annapolis,Maryland,USA,Failed
+797,324,8/4/2022 11:19,4933.27,Morgan-Pitts,Travel,Cheyenne,Wyoming,USA,Pending
+798,3,3/10/2021 20:14,2263.01,"Robinson, Johnson and Francis",Restaurants,Santa Fe,New Mexico,USA,Completed
+799,251,6/1/2022 18:49,3927.13,"Townsend, Blair and Smith",Electronics,Providence,Rhode Island,USA,Completed
+800,325,1/30/2024 12:22,2149.9,Hammond Ltd,Pharmacy,Hartford,Connecticut,USA,Failed
+801,3,7/21/2023 13:50,193.44,Estes-Clements,Restaurants,Lansing,Michigan,USA,Pending
+802,487,10/13/2020 15:09,75.32,Ramirez-Scott,Travel,Carson City,Nevada,USA,Pending
+803,10,9/12/2020 19:08,3385.36,Davis-Casey,Restaurants,Madison,Wisconsin,USA,Completed
+804,160,4/22/2022 15:42,649.01,"Anderson, Mack and Taylor",Pharmacy,Boise,Idaho,USA,Pending
+805,86,7/17/2020 22:02,331.11,Moore-Galloway,Grocery,Sacramento,California,USA,Failed
+806,234,5/18/2020 5:23,3640.52,Summers-Quinn,Travel,Trenton,New Jersey,USA,Failed
+807,176,5/22/2024 21:59,4980.71,Moreno-Delgado,Entertainment,Salt Lake City,Utah,USA,Failed
+808,85,9/17/2024 2:44,4740.68,Fuller-Fuller,Pharmacy,Springfield,Illinois,USA,Completed
+809,115,9/10/2020 19:53,3637.21,"Murphy, Taylor and Bolton",Clothing,Helena,Montana,USA,Completed
+810,302,11/8/2020 23:01,2525.64,"Bruce, Mendoza and Bowman",Electronics,Augusta,Maine,USA,Failed
+811,193,11/22/2021 2:37,4383.34,Knight-Perry,Gas Station,Concord,New Hampshire,USA,Pending
+812,305,3/1/2024 2:39,4973.43,"Perkins, Smith and Duncan",Electronics,Montpelier,Vermont,USA,Pending
+813,25,4/21/2023 9:34,3450.3,Garcia Inc,Pharmacy,Topeka,Kansas,USA,Failed
+814,64,1/15/2023 23:54,2738.68,Perez Ltd,Entertainment,Helena,Montana,USA,Pending
+815,106,7/21/2023 19:51,3477.48,Smith Inc,Grocery,Juneau,Alaska,USA,Failed
+816,339,8/18/2021 11:01,509.39,"Carroll, Hickman and Hardin",Gas Station,Lincoln,Nebraska,USA,Pending
+817,215,6/22/2020 3:46,4154.11,Wood Group,Electronics,Topeka,Kansas,USA,Pending
+818,145,12/8/2023 7:02,574.49,Brown LLC,Electronics,Boston,Massachusetts,USA,Failed
+819,312,7/8/2020 1:29,1002.75,Espinoza Ltd,Gas Station,Phoenix,Arizona,USA,Pending
+820,184,2/3/2020 20:50,3518.67,Meyer-Wilson,Gas Station,Austin,Texas,USA,Completed
+821,281,11/5/2023 22:15,2484.29,"Anderson, Krause and Obrien",Restaurants,Pierre,South Dakota,USA,Pending
+822,170,12/12/2019 8:10,1176.35,Mcgee-Mcmahon,Grocery,Dover,Delaware,USA,Pending
+823,465,12/24/2021 10:34,556.6,"Martin, Davis and Bell",Entertainment,Helena,Montana,USA,Completed
+824,400,2/26/2021 22:23,2560.97,Hughes-Moody,Electronics,Harrisburg,Pennsylvania,USA,Failed
+825,234,1/20/2022 10:20,4943.39,Nelson-Warner,Gas Station,Augusta,Maine,USA,Failed
+826,26,11/9/2019 15:07,503.55,Davis PLC,Clothing,Richmond,Virginia,USA,Completed
+827,185,12/22/2022 20:02,4008.97,"Nelson, Warner and Williams",Travel,Montgomery,Alabama,USA,Failed
+828,49,4/3/2021 20:48,4256.97,Wallace-Jensen,Grocery,Madison,Wisconsin,USA,Completed
+829,340,5/2/2021 14:17,3237.76,Edwards-James,Travel,Carson City,Nevada,USA,Failed
+830,490,12/22/2022 18:30,3110.93,Anderson Group,Electronics,Sacramento,California,USA,Failed
+831,94,12/3/2023 8:13,573.59,Smith Group,Pharmacy,Madison,Wisconsin,USA,Failed
+832,428,2/4/2021 23:50,1931.65,Ramos Inc,Entertainment,Jefferson City,Missouri,USA,Failed
+833,58,8/21/2020 23:16,666.9,"Cunningham, Reynolds and Peterson",Grocery,Cheyenne,Wyoming,USA,Completed
+834,214,10/27/2022 19:49,4556.58,Schroeder-Vega,Entertainment,Springfield,Illinois,USA,Pending
+835,93,7/8/2020 8:48,3058.56,Lang-Brown,Travel,Atlanta,Georgia,USA,Pending
+836,442,9/15/2021 22:09,3423.9,Porter-Mitchell,Clothing,Atlanta,Georgia,USA,Failed
+837,58,1/17/2022 12:01,4438.53,Ray-Garza,Entertainment,Springfield,Illinois,USA,Completed
+838,134,1/29/2022 11:30,3276.59,"Richards, Roth and Hodge",Grocery,Salem,Oregon,USA,Pending
+839,490,7/19/2022 15:56,3350.87,Benjamin Group,Travel,Jackson,Mississippi,USA,Pending
+840,222,8/29/2020 20:43,3310.26,Reyes LLC,Restaurants,Montpelier,Vermont,USA,Failed
+841,340,5/26/2023 18:20,3383.1,Lloyd PLC,Pharmacy,Helena,Montana,USA,Completed
+842,6,4/5/2020 9:17,3218.78,Stephenson-Smith,Clothing,Honolulu,Hawaii,USA,Pending
+843,437,10/22/2023 23:39,2481.7,"Sanford, Morse and Gutierrez",Clothing,Olympia,Washington,USA,Completed
+844,165,9/24/2024 5:21,1208.25,"Brooks, Beltran and Hensley",Gas Station,Lincoln,Nebraska,USA,Completed
+845,282,3/20/2023 3:11,3218.37,Copeland and Sons,Pharmacy,Charleston,West Virginia,USA,Completed
+846,236,7/31/2021 11:44,2223.72,Lopez-Davidson,Entertainment,Boise,Idaho,USA,Completed
+847,229,10/31/2023 16:08,1583.73,Baker-Garrett,Entertainment,Dover,Delaware,USA,Pending
+848,53,5/2/2024 17:11,2020.18,Romero-Rodriguez,Grocery,Olympia,Washington,USA,Pending
+849,423,8/31/2023 10:31,459.02,Tapia Ltd,Gas Station,Cheyenne,Wyoming,USA,Pending
+850,336,6/17/2024 21:03,3359.01,Smith LLC,Travel,Honolulu,Hawaii,USA,Failed
+851,419,2/9/2024 22:26,1118.48,Spears PLC,Entertainment,Harrisburg,Pennsylvania,USA,Failed
+852,367,10/13/2023 1:39,3287.55,Cisneros and Sons,Entertainment,Hartford,Connecticut,USA,Completed
+853,389,12/18/2020 23:22,3296.26,Burgess LLC,Grocery,Madison,Wisconsin,USA,Failed
+854,425,9/4/2023 1:47,3170.14,Miller-Burns,Gas Station,Richmond,Virginia,USA,Pending
+855,360,10/1/2020 12:12,536.08,"Phillips, Lambert and Gomez",Clothing,Phoenix,Arizona,USA,Failed
+856,421,8/26/2024 23:10,3585.7,Larson-Mccann,Pharmacy,Salt Lake City,Utah,USA,Completed
+857,313,1/21/2023 23:21,983.63,Townsend-Cardenas,Electronics,Springfield,Illinois,USA,Failed
+858,235,1/21/2020 9:23,4123.65,"Bell, Burns and Frye",Restaurants,Honolulu,Hawaii,USA,Pending
+859,56,1/19/2021 15:44,3786.96,Webb-Huff,Grocery,Richmond,Virginia,USA,Pending
+860,396,1/30/2024 21:55,4459.31,Quinn Ltd,Entertainment,Montpelier,Vermont,USA,Pending
+861,494,7/20/2023 18:48,2496.65,"King, Lynch and Gilbert",Grocery,Lincoln,Nebraska,USA,Pending
+862,430,8/22/2021 12:31,2927.68,English-Mccann,Clothing,Pierre,South Dakota,USA,Pending
+863,375,11/12/2022 22:48,4077.14,"Taylor, Ball and Levy",Electronics,Topeka,Kansas,USA,Failed
+864,259,12/20/2021 14:25,4407.55,Cooper LLC,Pharmacy,Lansing,Michigan,USA,Pending
+865,141,2/26/2024 2:13,1992.36,"Johnson, Booth and Lee",Travel,Topeka,Kansas,USA,Failed
+866,413,6/29/2020 18:22,671.19,Johnson-Lewis,Pharmacy,Columbus,Ohio,USA,Pending
+867,432,4/8/2024 0:02,3508.96,Williams-Hall,Travel,Boston,Massachusetts,USA,Pending
+868,103,4/20/2024 6:22,1052.51,Owens-Ryan,Gas Station,Trenton,New Jersey,USA,Pending
+869,472,1/27/2021 4:59,3363.51,"Taylor, Ellison and Smith",Clothing,Augusta,Maine,USA,Pending
+870,364,10/1/2020 2:18,581.45,Bartlett Ltd,Travel,Olympia,Washington,USA,Pending
+871,299,10/11/2024 18:55,2855.34,Harvey Inc,Pharmacy,Jackson,Mississippi,USA,Pending
+872,450,11/13/2020 7:29,4237.27,Campbell-Powell,Grocery,Phoenix,Arizona,USA,Pending
+873,13,2/24/2021 9:13,1907.45,"Murray, Johnson and Vega",Grocery,Jackson,Mississippi,USA,Pending
+874,103,10/30/2023 1:19,1338.56,Lawson-Martin,Clothing,Tallahassee,Florida,USA,Failed
+875,75,6/29/2024 19:11,4197.71,"Lawson, Livingston and Moore",Gas Station,Columbus,Ohio,USA,Completed
+876,184,8/4/2023 11:23,4071.06,Fletcher-Marsh,Electronics,Boise,Idaho,USA,Pending
+877,381,6/7/2023 16:17,3237.36,"Chavez, Hawkins and Henry",Pharmacy,Concord,New Hampshire,USA,Completed
+878,355,11/20/2019 6:21,3324.15,Nichols-Knox,Pharmacy,Madison,Wisconsin,USA,Failed
+879,490,3/16/2020 1:08,3941.62,Yoder Inc,Travel,Juneau,Alaska,USA,Pending
+880,7,8/27/2024 14:17,3719.63,Sosa Inc,Restaurants,Pierre,South Dakota,USA,Pending
+881,425,11/20/2023 3:55,1131.61,Smith-Boyd,Travel,Indianapolis,Indiana,USA,Pending
+882,398,2/13/2022 1:31,3625.95,Shaw LLC,Restaurants,Trenton,New Jersey,USA,Failed
+883,91,7/26/2021 5:17,4917.35,"Williams, Melendez and Smith",Electronics,Harrisburg,Pennsylvania,USA,Completed
+884,377,11/25/2019 21:14,2571.67,Hernandez-Morris,Pharmacy,Indianapolis,Indiana,USA,Completed
+885,143,9/28/2020 10:46,2785.21,"Chan, Crawford and Stone",Clothing,Saint Paul,Minnesota,USA,Completed
+886,3,7/24/2020 3:30,1656.16,Alvarado and Sons,Clothing,Trenton,New Jersey,USA,Completed
+887,476,5/17/2022 15:13,1616.54,Pham-Armstrong,Grocery,Atlanta,Georgia,USA,Pending
+888,252,8/15/2022 18:32,3950.59,Adams Ltd,Travel,Dover,Delaware,USA,Completed
+889,270,2/18/2024 5:31,1103.71,"Cuevas, Bruce and Smith",Clothing,Tallahassee,Florida,USA,Pending
+890,403,3/13/2021 12:55,2528.18,Bean Group,Pharmacy,Madison,Wisconsin,USA,Pending
+891,48,8/27/2023 15:33,1750.27,"Vargas, Schmidt and White",Restaurants,Frankfort,Kentucky,USA,Pending
+892,170,1/16/2023 10:36,1807.19,"Fuentes, Hopkins and Lynch",Restaurants,Baton Rouge,Louisiana,USA,Pending
+893,288,6/2/2024 12:14,4119.32,"Garcia, Chang and White",Grocery,Montgomery,Alabama,USA,Completed
+894,229,1/13/2022 6:00,1205.54,"Hayes, Turner and Floyd",Restaurants,Harrisburg,Pennsylvania,USA,Completed
+895,196,1/1/2024 23:13,4580.08,Taylor-Mills,Electronics,Olympia,Washington,USA,Failed
+896,277,5/23/2020 8:57,3621.26,Harrison Group,Grocery,Columbia,South Carolina,USA,Pending
+897,264,3/6/2022 18:13,4015.07,"Smith, Powell and Perkins",Entertainment,Santa Fe,New Mexico,USA,Failed
+898,152,5/10/2020 22:20,4491.92,Wilson-Myers,Restaurants,Olympia,Washington,USA,Failed
+899,486,10/12/2022 13:15,484.3,Choi and Sons,Grocery,Little Rock,Arkansas,USA,Pending
+900,108,11/3/2023 7:28,3353.32,"Berry, Butler and Rocha",Restaurants,Hartford,Connecticut,USA,Pending
+901,428,4/1/2022 19:12,524.11,Gutierrez-Johnson,Pharmacy,Topeka,Kansas,USA,Pending
+902,383,12/10/2019 13:49,3431.79,Evans Ltd,Grocery,Springfield,Illinois,USA,Failed
+903,20,8/2/2024 11:30,442.17,"Wood, Murphy and Ellis",Grocery,Honolulu,Hawaii,USA,Completed
+904,286,9/30/2022 1:35,356.86,Mercer-Jones,Restaurants,Columbus,Ohio,USA,Failed
+905,199,1/31/2020 22:43,2258.37,Gonzales and Sons,Pharmacy,Saint Paul,Minnesota,USA,Failed
+906,9,7/28/2022 3:16,1950.56,"Reed, Gray and Garcia",Electronics,Bismarck,North Dakota,USA,Pending
+907,329,5/25/2022 0:15,3602.83,Becker-Brown,Electronics,Olympia,Washington,USA,Pending
+908,359,6/15/2023 11:15,4242.01,Doyle PLC,Travel,Atlanta,Georgia,USA,Pending
+909,149,11/10/2020 9:39,3935.53,"Gordon, Thompson and Dillon",Gas Station,Charleston,West Virginia,USA,Pending
+910,145,4/22/2023 12:04,3827.54,Tran-Shields,Entertainment,Helena,Montana,USA,Failed
+911,421,8/13/2022 17:09,3305.31,Woodward PLC,Entertainment,Lansing,Michigan,USA,Completed
+912,70,3/14/2020 13:27,3735.04,"Phillips, Fitzgerald and Wallace",Gas Station,Pierre,South Dakota,USA,Pending
+913,153,7/21/2021 21:56,3388.06,Gill-Sandoval,Travel,Hartford,Connecticut,USA,Completed
+914,64,7/12/2022 17:26,213.66,Brown-Gonzalez,Pharmacy,Harrisburg,Pennsylvania,USA,Pending
+915,157,2/16/2024 9:33,1054.21,Roberts-Hart,Travel,Denver,Colorado,USA,Completed
+916,464,3/18/2020 13:48,3231.43,"Pham, Adams and Cook",Clothing,Olympia,Washington,USA,Completed
+917,114,7/3/2024 10:58,3086.34,Andrade Group,Gas Station,Saint Paul,Minnesota,USA,Completed
+918,93,8/25/2020 17:13,3356.53,"Johnson, Trujillo and Castillo",Grocery,Pierre,South Dakota,USA,Pending
+919,331,3/3/2021 5:17,2750.57,"Smith, Dominguez and Giles",Gas Station,Indianapolis,Indiana,USA,Pending
+920,129,7/13/2021 8:18,495.52,"Griffith, Clark and Hernandez",Entertainment,Montpelier,Vermont,USA,Failed
+921,66,12/20/2020 1:54,3358.12,"Blair, Nicholson and Mann",Restaurants,Topeka,Kansas,USA,Completed
+922,318,4/28/2023 20:36,353.7,"Roberts, Brown and Wilcox",Restaurants,Trenton,New Jersey,USA,Failed
+923,231,1/11/2020 17:45,1645.09,Watts-Gomez,Gas Station,Jefferson City,Missouri,USA,Pending
+924,290,10/17/2022 16:20,2836.48,"Trujillo, Carter and Williams",Travel,Sacramento,California,USA,Failed
+925,3,4/4/2020 1:02,1569.51,Simpson-Ochoa,Restaurants,Hartford,Connecticut,USA,Pending
+926,142,6/20/2024 14:45,4201.35,"White, May and White",Clothing,Harrisburg,Pennsylvania,USA,Pending
+927,450,11/30/2021 9:12,2402.37,Marshall-Delacruz,Entertainment,Lincoln,Nebraska,USA,Failed
+928,250,5/9/2020 20:37,2760.6,Booth-Edwards,Clothing,Salem,Oregon,USA,Pending
+929,431,6/14/2022 4:52,1406.68,"Lopez, Washington and Curtis",Clothing,Tallahassee,Florida,USA,Pending
+930,135,10/23/2024 23:05,3669.06,"Smith, Rodriguez and Henderson",Electronics,Providence,Rhode Island,USA,Pending
+931,457,8/26/2023 16:46,98.06,Matthews Inc,Grocery,Lansing,Michigan,USA,Pending
+932,394,10/24/2020 17:32,2952.23,Reyes Group,Grocery,Springfield,Illinois,USA,Pending
+933,279,4/29/2023 5:22,4470.46,Cooper-Strickland,Entertainment,Indianapolis,Indiana,USA,Pending
+934,188,5/15/2023 11:07,1965.53,Spears-Huang,Gas Station,Oklahoma City,Oklahoma,USA,Completed
+935,257,12/14/2019 2:57,2554.51,Cook-Smith,Pharmacy,Phoenix,Arizona,USA,Failed
+936,340,1/2/2020 9:28,1198.21,Ortiz-Walton,Clothing,Springfield,Illinois,USA,Pending
+937,229,8/30/2020 2:29,800.32,Roberts-Coleman,Clothing,Little Rock,Arkansas,USA,Pending
+938,481,9/19/2021 2:33,1797.18,Flores LLC,Restaurants,Augusta,Maine,USA,Failed
+939,33,10/26/2021 10:56,1325.46,Mercado-Kane,Restaurants,Annapolis,Maryland,USA,Completed
+940,266,5/10/2021 10:31,4539.09,Cole Ltd,Travel,Helena,Montana,USA,Failed
+941,470,9/26/2021 19:31,2275.94,"Weaver, Smith and Ellis",Grocery,Concord,New Hampshire,USA,Completed
+942,53,12/14/2020 17:21,3520.16,Haynes-Salazar,Gas Station,Providence,Rhode Island,USA,Pending
+943,297,7/19/2024 19:01,2724.03,Young PLC,Clothing,Annapolis,Maryland,USA,Failed
+944,188,7/6/2023 23:21,2940.46,Blair-Schneider,Electronics,Providence,Rhode Island,USA,Pending
+945,193,2/6/2024 4:48,4863.51,"Williams, Hobbs and Williams",Restaurants,Tallahassee,Florida,USA,Pending
+946,181,4/1/2022 1:57,4087.1,"Hunt, Santiago and Nelson",Travel,Helena,Montana,USA,Failed
+947,455,7/25/2020 22:32,3023.03,Gonzalez-Brown,Clothing,Raleigh,North Carolina,USA,Failed
+948,118,1/7/2023 8:27,390.06,Giles-Jackson,Gas Station,Raleigh,North Carolina,USA,Completed
+949,96,4/12/2022 22:04,791,"Duncan, Fletcher and Lee",Electronics,Cheyenne,Wyoming,USA,Pending
+950,213,12/25/2023 18:57,4056.81,Harvey-Wood,Electronics,Richmond,Virginia,USA,Failed
+951,246,1/31/2024 12:17,1057.47,Hamilton Inc,Clothing,Olympia,Washington,USA,Pending
+952,12,7/19/2021 12:54,1222.13,Hopkins-Bond,Clothing,Boise,Idaho,USA,Pending
+953,69,12/30/2019 11:21,3149.55,Long PLC,Grocery,Atlanta,Georgia,USA,Pending
+954,29,3/20/2023 7:50,835.88,"Rodriguez, Rice and Logan",Clothing,Jackson,Mississippi,USA,Pending
+955,307,10/25/2023 15:56,4846.37,Grant-Perkins,Grocery,Charleston,West Virginia,USA,Pending
+956,485,12/29/2019 13:18,433.31,Benjamin-Harvey,Entertainment,Frankfort,Kentucky,USA,Pending
+957,445,9/22/2020 23:37,2410.93,Taylor PLC,Restaurants,Bismarck,North Dakota,USA,Failed
+958,407,1/22/2022 0:14,2915.32,Mcfarland-Brooks,Clothing,Pierre,South Dakota,USA,Pending
+959,86,12/12/2022 23:51,3622.31,"Williams, Jones and Armstrong",Travel,Honolulu,Hawaii,USA,Failed
+960,118,5/13/2022 2:51,1894.17,"Murphy, Mcguire and Gordon",Clothing,Hartford,Connecticut,USA,Completed
+961,104,3/18/2020 22:40,2615.94,Mack PLC,Pharmacy,Baton Rouge,Louisiana,USA,Completed
+962,91,11/3/2023 19:27,2381.97,"Smith, Lucas and Gilmore",Grocery,Lansing,Michigan,USA,Pending
+963,48,11/24/2019 18:08,2413.79,Hayes PLC,Clothing,Charleston,West Virginia,USA,Pending
+964,460,12/24/2021 1:31,4688.99,Salinas LLC,Pharmacy,Boise,Idaho,USA,Pending
+965,190,12/19/2021 23:07,4374.75,"Ball, Moreno and Garcia",Pharmacy,Charleston,West Virginia,USA,Completed
+966,405,1/8/2024 7:52,3844.52,Scott-Oneal,Travel,Springfield,Illinois,USA,Pending
+967,218,7/6/2021 16:10,673.75,Campbell-Leblanc,Entertainment,Augusta,Maine,USA,Completed
+968,146,7/10/2022 16:07,2993.47,"Greene, Smith and Osborne",Pharmacy,Carson City,Nevada,USA,Failed
+969,3,3/5/2023 23:16,3547.2,Olson-Carney,Grocery,Tallahassee,Florida,USA,Pending
+970,267,5/11/2021 11:21,40.93,"Cunningham, Reeves and Howard",Restaurants,Nashville,Tennessee,USA,Pending
+971,210,3/29/2023 17:08,1814.54,Davidson-Buchanan,Clothing,Frankfort,Kentucky,USA,Failed
+972,134,5/9/2022 13:54,4275.61,Reid Group,Pharmacy,Little Rock,Arkansas,USA,Pending
+973,314,11/28/2023 12:35,1381.42,"Lawson, Lucas and Smith",Pharmacy,Montgomery,Alabama,USA,Completed
+974,283,10/9/2021 18:10,3920.02,Mckenzie-Smith,Entertainment,Montpelier,Vermont,USA,Completed
+975,287,9/7/2022 7:10,2776.78,Walker-Soto,Gas Station,Columbia,South Carolina,USA,Failed
+976,397,1/13/2021 10:55,3528.95,Rose-Conner,Clothing,Lincoln,Nebraska,USA,Pending
+977,383,9/22/2024 2:32,1152.71,"Pruitt, Patterson and Green",Clothing,Montgomery,Alabama,USA,Completed
+978,261,9/6/2020 8:54,2005.8,"Castillo, Martin and Edwards",Travel,Harrisburg,Pennsylvania,USA,Pending
+979,83,9/15/2024 2:59,1948.57,"Young, Hines and Jacobson",Grocery,Boise,Idaho,USA,Completed
+980,242,12/23/2020 1:23,4629.68,Frey PLC,Pharmacy,Salt Lake City,Utah,USA,Completed
+981,135,12/13/2023 10:24,1112.74,Adams LLC,Electronics,Boise,Idaho,USA,Pending
+982,371,8/8/2022 9:09,1924.71,Johnson Ltd,Pharmacy,Austin,Texas,USA,Pending
+983,365,9/29/2020 20:57,4817.83,"Schneider, Sanchez and Cardenas",Grocery,Phoenix,Arizona,USA,Completed
+984,225,8/17/2020 7:39,58.5,Bruce and Sons,Gas Station,Frankfort,Kentucky,USA,Completed
+985,402,9/3/2021 23:29,2999.58,"Campbell, Wells and Harris",Restaurants,Boston,Massachusetts,USA,Pending
+986,346,3/30/2020 19:07,185.13,"Chavez, Mays and Lopez",Restaurants,Charleston,West Virginia,USA,Pending
+987,500,2/4/2023 3:53,791.44,Mckay-Taylor,Gas Station,Carson City,Nevada,USA,Failed
+988,343,11/16/2020 17:36,1978.74,Peters PLC,Restaurants,Little Rock,Arkansas,USA,Pending
+989,378,11/5/2019 5:38,3519.59,Burnett-Rogers,Electronics,Austin,Texas,USA,Pending
+990,372,12/1/2020 9:40,4149.68,Khan-Williams,Travel,Atlanta,Georgia,USA,Failed
+991,116,5/12/2024 23:39,3033.79,Smith Ltd,Restaurants,Cheyenne,Wyoming,USA,Failed
+992,295,1/25/2022 10:02,28.23,"Bishop, Chavez and Williams",Clothing,Little Rock,Arkansas,USA,Failed
+993,287,2/7/2022 7:43,366.57,Wells-Jimenez,Gas Station,Salem,Oregon,USA,Failed
+994,412,5/3/2024 7:17,2568.87,Houston-Foster,Gas Station,Boise,Idaho,USA,Pending
+995,356,9/7/2020 17:56,2216.63,"Williams, Gonzales and Flores",Pharmacy,Phoenix,Arizona,USA,Pending
+996,395,6/21/2021 0:17,1220.15,James-Barry,Travel,Boise,Idaho,USA,Failed
+997,460,10/23/2023 7:44,2936.2,Fuentes PLC,Grocery,Frankfort,Kentucky,USA,Failed
+998,133,4/5/2024 18:58,342.43,"Watkins, Houston and Short",Restaurants,Harrisburg,Pennsylvania,USA,Pending
+999,410,2/29/2024 17:37,1582.07,"Phillips, Sullivan and Fisher",Travel,Charleston,West Virginia,USA,Pending
+1000,359,7/1/2023 10:14,4161.72,"Thompson, Johnson and Robinson",Restaurants,Austin,Texas,USA,Failed

@@ -1,0 +1,400 @@
+fraud_id,transaction_id,fraud_detected_date,fraud_type,investigation_status,fraud_resolution
+1,655,4/10/2020 19:09,Card Not Present,Open,No Action Taken
+2,251,2/12/2021 7:47,Stolen Card,Under Investigation,No Action Taken
+3,693,1/24/2020 18:40,Skimming,Open,No Action Taken
+4,33,8/4/2023 4:58,Card Not Present,Open,No Action Taken
+5,239,2/11/2023 0:39,Skimming,Open,No Action Taken
+6,734,11/10/2019 5:56,Skimming,Resolved,False Positive
+7,460,7/14/2020 16:09,Skimming,Closed,Confirmed Fraud
+8,778,10/25/2021 18:41,Stolen Card,Resolved,False Positive
+9,285,12/23/2020 13:14,Stolen Card,Under Investigation,No Action Taken
+10,105,12/17/2022 9:00,Card Not Present,Resolved,False Positive
+11,368,7/15/2022 5:31,Account Takeover,Closed,Confirmed Fraud
+12,748,2/14/2020 9:17,Fake Merchant,Open,No Action Taken
+13,81,1/29/2020 6:01,Skimming,Closed,Confirmed Fraud
+14,592,7/3/2021 19:34,Stolen Card,Open,No Action Taken
+15,678,8/11/2024 0:36,Stolen Card,Closed,Confirmed Fraud
+16,876,8/5/2023 11:23,Stolen Card,Open,No Action Taken
+18,380,7/28/2024 5:14,Account Takeover,Under Investigation,No Action Taken
+19,719,2/19/2022 0:25,Card Not Present,Under Investigation,No Action Taken
+20,168,1/26/2024 5:48,Fake Merchant,Resolved,False Positive
+21,948,1/8/2023 8:27,Skimming,Under Investigation,No Action Taken
+22,864,12/21/2021 14:25,Card Not Present,Under Investigation,No Action Taken
+23,825,1/21/2022 10:20,Account Takeover,Resolved,False Positive
+24,68,7/9/2021 21:42,Stolen Card,Closed,Confirmed Fraud
+25,672,7/7/2024 3:13,Fake Merchant,Resolved,False Positive
+26,147,10/18/2023 22:50,Account Takeover,Under Investigation,No Action Taken
+27,763,9/23/2020 17:27,Skimming,Closed,Confirmed Fraud
+28,920,7/14/2021 8:18,Skimming,Resolved,False Positive
+29,225,7/24/2022 12:51,Stolen Card,Resolved,False Positive
+30,774,7/22/2024 0:48,Card Not Present,Open,No Action Taken
+31,643,9/22/2020 12:18,Stolen Card,Resolved,False Positive
+32,395,10/16/2022 7:06,Fake Merchant,Resolved,False Positive
+33,995,9/8/2020 17:56,Skimming,Open,No Action Taken
+34,699,8/1/2021 17:52,Skimming,Closed,Confirmed Fraud
+35,115,8/26/2020 3:16,Account Takeover,Resolved,False Positive
+36,465,12/6/2020 21:38,Card Not Present,Closed,Confirmed Fraud
+37,520,2/23/2021 16:41,Card Not Present,Closed,Confirmed Fraud
+38,157,4/28/2024 23:50,Account Takeover,Under Investigation,No Action Taken
+39,614,9/25/2023 2:42,Account Takeover,Resolved,False Positive
+41,60,2/26/2023 16:04,Stolen Card,Open,No Action Taken
+42,750,10/3/2024 8:30,Fake Merchant,Open,No Action Taken
+43,132,9/15/2021 19:34,Fake Merchant,Under Investigation,No Action Taken
+44,541,7/21/2022 4:37,Skimming,Resolved,False Positive
+45,952,7/20/2021 12:54,Skimming,Under Investigation,No Action Taken
+46,409,3/5/2024 2:16,Account Takeover,Resolved,False Positive
+47,124,6/25/2021 0:36,Stolen Card,Under Investigation,No Action Taken
+48,347,12/26/2019 2:47,Card Not Present,Under Investigation,No Action Taken
+49,8,4/19/2020 14:03,Card Not Present,Open,No Action Taken
+50,70,3/6/2023 6:40,Card Not Present,Closed,Confirmed Fraud
+51,527,5/23/2022 7:11,Stolen Card,Closed,Confirmed Fraud
+52,220,5/15/2023 11:08,Skimming,Under Investigation,No Action Taken
+53,249,8/21/2022 6:27,Fake Merchant,Resolved,False Positive
+54,97,9/4/2020 8:46,Card Not Present,Resolved,False Positive
+55,434,8/9/2022 20:58,Fake Merchant,Resolved,False Positive
+56,690,5/13/2022 16:47,Card Not Present,Open,No Action Taken
+57,746,9/10/2021 3:18,Account Takeover,Open,No Action Taken
+58,197,2/9/2023 8:30,Stolen Card,Resolved,False Positive
+59,433,11/10/2022 11:24,Stolen Card,Closed,Confirmed Fraud
+60,256,4/2/2022 19:38,Card Not Present,Resolved,False Positive
+61,52,7/28/2023 7:49,Skimming,Open,No Action Taken
+62,949,4/13/2022 22:04,Stolen Card,Under Investigation,No Action Taken
+63,498,1/24/2022 23:22,Fake Merchant,Under Investigation,No Action Taken
+64,925,4/5/2020 1:02,Card Not Present,Under Investigation,No Action Taken
+65,3,12/15/2019 22:07,Fake Merchant,Closed,Confirmed Fraud
+66,293,3/27/2021 7:28,Fake Merchant,Resolved,False Positive
+67,195,7/30/2022 5:31,Account Takeover,Under Investigation,No Action Taken
+68,594,6/17/2024 10:07,Skimming,Open,No Action Taken
+69,59,7/1/2024 22:05,Card Not Present,Resolved,False Positive
+71,71,5/24/2024 15:03,Skimming,Open,No Action Taken
+72,414,9/18/2020 11:31,Card Not Present,Under Investigation,No Action Taken
+73,635,1/25/2022 23:48,Card Not Present,Resolved,False Positive
+74,958,1/23/2022 0:14,Account Takeover,Under Investigation,No Action Taken
+75,245,8/19/2022 13:32,Account Takeover,Resolved,False Positive
+76,688,9/21/2020 15:02,Account Takeover,Resolved,False Positive
+78,637,12/27/2023 8:07,Skimming,Open,No Action Taken
+79,551,12/11/2019 5:14,Stolen Card,Closed,Confirmed Fraud
+80,956,12/30/2019 13:18,Account Takeover,Open,No Action Taken
+81,379,10/8/2022 16:58,Account Takeover,Under Investigation,No Action Taken
+82,854,9/5/2023 1:47,Skimming,Closed,Confirmed Fraud
+83,684,2/24/2020 7:12,Skimming,Closed,Confirmed Fraud
+84,962,11/4/2023 19:27,Stolen Card,Closed,Confirmed Fraud
+85,912,3/15/2020 13:27,Card Not Present,Under Investigation,No Action Taken
+86,289,2/18/2021 5:40,Skimming,Under Investigation,No Action Taken
+87,209,3/26/2021 18:57,Account Takeover,Resolved,False Positive
+88,928,5/10/2020 20:37,Card Not Present,Open,No Action Taken
+89,850,6/18/2024 21:03,Account Takeover,Open,No Action Taken
+90,342,10/31/2019 17:46,Stolen Card,Closed,Confirmed Fraud
+91,760,5/23/2023 12:31,Fake Merchant,Resolved,False Positive
+93,855,10/2/2020 12:12,Account Takeover,Under Investigation,No Action Taken
+94,131,4/17/2024 14:55,Card Not Present,Closed,Confirmed Fraud
+95,921,12/21/2020 1:54,Card Not Present,Closed,Confirmed Fraud
+97,799,6/2/2022 18:49,Skimming,Resolved,False Positive
+99,903,8/3/2024 11:30,Fake Merchant,Open,No Action Taken
+100,755,7/1/2024 13:50,Account Takeover,Resolved,False Positive
+101,274,6/8/2022 7:17,Stolen Card,Open,No Action Taken
+102,894,1/14/2022 6:00,Card Not Present,Resolved,False Positive
+103,205,9/16/2023 0:50,Fake Merchant,Closed,Confirmed Fraud
+104,841,5/27/2023 18:20,Stolen Card,Under Investigation,No Action Taken
+105,676,6/23/2024 17:42,Stolen Card,Resolved,False Positive
+106,286,3/9/2020 16:35,Card Not Present,Closed,Confirmed Fraud
+107,657,3/26/2023 7:03,Skimming,Resolved,False Positive
+109,183,3/28/2024 13:00,Skimming,Closed,Confirmed Fraud
+110,112,9/4/2024 11:28,Skimming,Resolved,False Positive
+111,747,6/18/2021 7:51,Account Takeover,Resolved,False Positive
+113,46,6/13/2020 16:53,Fake Merchant,Open,No Action Taken
+114,373,6/11/2024 11:45,Fake Merchant,Open,No Action Taken
+115,639,8/14/2024 4:05,Account Takeover,Open,No Action Taken
+117,413,8/1/2022 4:53,Account Takeover,Under Investigation,No Action Taken
+118,431,10/14/2023 5:23,Fake Merchant,Under Investigation,No Action Taken
+119,416,1/26/2020 20:31,Skimming,Open,No Action Taken
+120,294,3/17/2023 8:18,Stolen Card,Resolved,False Positive
+121,477,5/12/2023 11:19,Fake Merchant,Resolved,False Positive
+122,524,3/12/2024 16:43,Fake Merchant,Under Investigation,No Action Taken
+123,291,10/30/2023 7:22,Skimming,Closed,Confirmed Fraud
+124,839,7/20/2022 15:56,Stolen Card,Closed,Confirmed Fraud
+125,826,11/10/2019 15:07,Stolen Card,Under Investigation,No Action Taken
+126,48,9/9/2022 2:29,Stolen Card,Resolved,False Positive
+127,467,1/19/2023 7:52,Fake Merchant,Under Investigation,No Action Taken
+128,507,5/17/2022 11:03,Fake Merchant,Under Investigation,No Action Taken
+131,571,3/24/2021 11:14,Stolen Card,Open,No Action Taken
+132,137,1/16/2022 0:12,Fake Merchant,Closed,Confirmed Fraud
+133,628,10/16/2020 10:56,Skimming,Resolved,False Positive
+134,919,3/4/2021 5:17,Stolen Card,Resolved,False Positive
+135,266,8/4/2024 10:05,Stolen Card,Closed,Confirmed Fraud
+136,642,7/24/2021 0:23,Stolen Card,Closed,Confirmed Fraud
+137,80,10/29/2021 5:58,Account Takeover,Under Investigation,No Action Taken
+138,344,1/14/2024 11:31,Account Takeover,Open,No Action Taken
+139,155,9/29/2024 23:51,Stolen Card,Resolved,False Positive
+140,724,8/26/2021 22:41,Stolen Card,Open,No Action Taken
+141,418,11/22/2022 23:23,Account Takeover,Resolved,False Positive
+142,64,2/14/2024 0:00,Stolen Card,Resolved,False Positive
+143,927,12/1/2021 9:12,Skimming,Open,No Action Taken
+144,489,11/11/2023 11:52,Card Not Present,Closed,Confirmed Fraud
+145,772,12/8/2021 12:43,Fake Merchant,Resolved,False Positive
+146,500,7/22/2023 1:21,Stolen Card,Closed,Confirmed Fraud
+148,685,4/8/2021 22:18,Fake Merchant,Under Investigation,No Action Taken
+149,942,12/15/2020 17:21,Stolen Card,Open,No Action Taken
+150,607,9/20/2024 17:17,Skimming,Open,No Action Taken
+151,659,7/8/2024 19:47,Fake Merchant,Under Investigation,No Action Taken
+152,187,9/19/2020 0:27,Card Not Present,Closed,Confirmed Fraud
+153,336,3/11/2024 7:45,Stolen Card,Resolved,False Positive
+154,346,7/11/2020 4:56,Fake Merchant,Closed,Confirmed Fraud
+155,259,3/30/2022 17:10,Card Not Present,Resolved,False Positive
+156,768,3/11/2023 23:43,Skimming,Open,No Action Taken
+157,230,5/11/2024 0:45,Card Not Present,Open,No Action Taken
+158,973,11/29/2023 12:35,Stolen Card,Under Investigation,No Action Taken
+160,485,11/23/2022 23:15,Card Not Present,Under Investigation,No Action Taken
+161,717,3/12/2023 1:15,Account Takeover,Closed,Confirmed Fraud
+162,621,12/22/2020 20:24,Skimming,Open,No Action Taken
+163,988,11/17/2020 17:36,Account Takeover,Open,No Action Taken
+165,965,12/20/2021 23:07,Stolen Card,Open,No Action Taken
+167,356,9/8/2022 6:06,Skimming,Resolved,False Positive
+169,870,10/2/2020 2:18,Fake Merchant,Resolved,False Positive
+170,444,11/13/2020 8:18,Account Takeover,Resolved,False Positive
+171,446,5/6/2021 5:40,Stolen Card,Closed,Confirmed Fraud
+173,873,2/25/2021 9:13,Stolen Card,Open,No Action Taken
+175,584,3/4/2022 8:13,Skimming,Resolved,False Positive
+176,30,8/2/2022 20:10,Fake Merchant,Closed,Confirmed Fraud
+178,349,2/18/2022 12:47,Account Takeover,Closed,Confirmed Fraud
+179,530,8/20/2023 11:03,Stolen Card,Open,No Action Taken
+180,738,11/25/2019 16:41,Fake Merchant,Resolved,False Positive
+181,708,8/14/2022 14:42,Fake Merchant,Resolved,False Positive
+182,812,3/2/2024 2:39,Card Not Present,Open,No Action Taken
+183,227,7/6/2020 15:41,Fake Merchant,Under Investigation,No Action Taken
+184,680,1/21/2020 16:52,Skimming,Closed,Confirmed Fraud
+185,567,4/26/2021 12:21,Skimming,Closed,Confirmed Fraud
+186,764,9/27/2023 14:59,Skimming,Closed,Confirmed Fraud
+187,720,2/9/2020 2:40,Fake Merchant,Closed,Confirmed Fraud
+188,258,6/2/2023 1:26,Stolen Card,Open,No Action Taken
+189,324,7/2/2021 9:31,Card Not Present,Under Investigation,No Action Taken
+190,222,12/9/2019 3:24,Fake Merchant,Closed,Confirmed Fraud
+191,103,2/19/2021 10:18,Stolen Card,Closed,Confirmed Fraud
+192,370,12/3/2020 2:07,Stolen Card,Closed,Confirmed Fraud
+193,726,1/22/2023 22:33,Skimming,Under Investigation,No Action Taken
+194,47,3/24/2022 1:48,Card Not Present,Closed,Confirmed Fraud
+195,654,6/8/2024 10:21,Fake Merchant,Open,No Action Taken
+196,588,9/2/2021 12:48,Account Takeover,Resolved,False Positive
+197,452,6/4/2022 3:27,Account Takeover,Under Investigation,No Action Taken
+199,411,1/21/2024 9:54,Fake Merchant,Open,No Action Taken
+200,156,11/12/2021 15:59,Stolen Card,Closed,Confirmed Fraud
+201,255,6/23/2021 23:15,Card Not Present,Resolved,False Positive
+202,795,4/27/2022 12:35,Skimming,Resolved,False Positive
+203,931,8/27/2023 16:46,Fake Merchant,Closed,Confirmed Fraud
+204,313,5/17/2023 9:05,Skimming,Open,No Action Taken
+205,971,3/30/2023 17:08,Stolen Card,Under Investigation,No Action Taken
+206,677,6/11/2022 1:30,Card Not Present,Under Investigation,No Action Taken
+207,178,2/24/2022 18:48,Skimming,Open,No Action Taken
+209,299,3/12/2021 6:00,Card Not Present,Under Investigation,No Action Taken
+211,704,4/20/2024 8:10,Stolen Card,Closed,Confirmed Fraud
+212,436,2/14/2024 23:29,Card Not Present,Under Investigation,No Action Taken
+214,62,5/3/2021 20:01,Stolen Card,Closed,Confirmed Fraud
+215,450,12/14/2021 17:58,Card Not Present,Resolved,False Positive
+217,449,2/15/2023 2:22,Card Not Present,Open,No Action Taken
+218,753,1/8/2020 12:26,Account Takeover,Closed,Confirmed Fraud
+219,94,11/9/2022 0:14,Stolen Card,Open,No Action Taken
+220,591,4/18/2021 18:09,Card Not Present,Under Investigation,No Action Taken
+221,532,5/25/2023 20:33,Fake Merchant,Closed,Confirmed Fraud
+222,600,6/29/2024 9:19,Fake Merchant,Resolved,False Positive
+223,482,3/21/2022 18:43,Account Takeover,Resolved,False Positive
+224,329,10/19/2021 1:39,Card Not Present,Under Investigation,No Action Taken
+225,422,8/6/2022 11:49,Fake Merchant,Closed,Confirmed Fraud
+226,834,10/28/2022 19:49,Skimming,Open,No Action Taken
+227,91,3/2/2021 2:14,Account Takeover,Closed,Confirmed Fraud
+228,119,3/2/2021 20:36,Fake Merchant,Open,No Action Taken
+229,424,9/21/2020 7:24,Card Not Present,Under Investigation,No Action Taken
+230,638,7/19/2022 12:00,Fake Merchant,Resolved,False Positive
+233,997,10/24/2023 7:44,Skimming,Under Investigation,No Action Taken
+234,319,9/16/2024 20:49,Skimming,Open,No Action Taken
+235,96,5/16/2021 15:43,Stolen Card,Open,No Action Taken
+236,970,5/12/2021 11:21,Card Not Present,Under Investigation,No Action Taken
+239,468,1/20/2022 12:09,Skimming,Under Investigation,No Action Taken
+240,196,9/17/2021 21:55,Skimming,Under Investigation,No Action Taken
+241,283,1/13/2022 22:46,Fake Merchant,Closed,Confirmed Fraud
+243,858,1/22/2020 9:23,Skimming,Resolved,False Positive
+244,458,3/11/2023 4:11,Skimming,Resolved,False Positive
+245,341,5/16/2022 17:32,Skimming,Resolved,False Positive
+247,586,5/7/2024 12:46,Fake Merchant,Under Investigation,No Action Taken
+248,45,7/12/2020 13:46,Account Takeover,Resolved,False Positive
+249,396,5/12/2023 1:17,Stolen Card,Resolved,False Positive
+250,130,11/29/2023 9:36,Skimming,Closed,Confirmed Fraud
+251,896,5/24/2020 8:57,Fake Merchant,Open,No Action Taken
+252,16,2/22/2022 19:41,Stolen Card,Resolved,False Positive
+253,77,9/1/2022 10:29,Fake Merchant,Closed,Confirmed Fraud
+257,241,3/12/2023 2:39,Account Takeover,Under Investigation,No Action Taken
+258,445,2/27/2020 20:57,Card Not Present,Open,No Action Taken
+259,171,8/7/2020 1:17,Account Takeover,Open,No Action Taken
+260,333,6/8/2020 13:39,Card Not Present,Closed,Confirmed Fraud
+261,384,10/18/2020 5:01,Fake Merchant,Under Investigation,No Action Taken
+262,544,7/13/2020 23:52,Fake Merchant,Under Investigation,No Action Taken
+263,180,7/3/2023 2:36,Card Not Present,Resolved,False Positive
+264,510,6/10/2023 20:46,Skimming,Under Investigation,No Action Taken
+265,473,5/5/2020 1:29,Account Takeover,Resolved,False Positive
+266,683,4/24/2024 13:21,Card Not Present,Resolved,False Positive
+267,694,9/5/2023 21:20,Skimming,Under Investigation,No Action Taken
+268,453,6/16/2020 20:29,Account Takeover,Closed,Confirmed Fraud
+269,707,3/20/2020 17:22,Account Takeover,Resolved,False Positive
+270,204,3/26/2022 13:24,Fake Merchant,Resolved,False Positive
+271,243,3/2/2023 19:18,Fake Merchant,Closed,Confirmed Fraud
+273,282,3/29/2021 20:05,Card Not Present,Open,No Action Taken
+274,853,12/19/2020 23:22,Account Takeover,Under Investigation,No Action Taken
+276,644,5/10/2023 18:38,Card Not Present,Open,No Action Taken
+277,808,9/18/2024 2:44,Fake Merchant,Open,No Action Taken
+279,335,2/17/2023 16:39,Fake Merchant,Under Investigation,No Action Taken
+280,136,9/20/2020 15:10,Skimming,Closed,Confirmed Fraud
+281,851,2/10/2024 22:26,Stolen Card,Closed,Confirmed Fraud
+282,991,5/13/2024 23:39,Account Takeover,Closed,Confirmed Fraud
+283,480,5/16/2020 15:22,Card Not Present,Under Investigation,No Action Taken
+284,881,11/21/2023 3:55,Fake Merchant,Closed,Confirmed Fraud
+285,810,11/9/2020 23:01,Fake Merchant,Open,No Action Taken
+286,550,2/28/2020 15:49,Card Not Present,Resolved,False Positive
+287,689,12/17/2022 6:52,Account Takeover,Resolved,False Positive
+288,111,12/23/2021 16:20,Stolen Card,Resolved,False Positive
+290,664,2/5/2024 6:44,Card Not Present,Resolved,False Positive
+291,665,1/22/2022 11:23,Fake Merchant,Open,No Action Taken
+294,398,5/1/2020 16:11,Fake Merchant,Closed,Confirmed Fraud
+295,602,10/24/2024 20:14,Stolen Card,Resolved,False Positive
+297,34,7/27/2023 6:07,Account Takeover,Under Investigation,No Action Taken
+298,456,9/24/2023 2:29,Stolen Card,Closed,Confirmed Fraud
+299,703,2/11/2020 15:16,Account Takeover,Closed,Confirmed Fraud
+300,408,10/19/2020 23:29,Account Takeover,Under Investigation,No Action Taken
+301,972,5/10/2022 13:54,Fake Merchant,Open,No Action Taken
+302,658,2/23/2021 14:24,Skimming,Open,No Action Taken
+303,806,5/19/2020 5:23,Account Takeover,Under Investigation,No Action Taken
+306,833,8/22/2020 23:16,Stolen Card,Closed,Confirmed Fraud
+308,880,8/28/2024 14:17,Stolen Card,Under Investigation,No Action Taken
+309,818,12/9/2023 7:02,Stolen Card,Open,No Action Taken
+310,135,9/21/2022 10:29,Card Not Present,Closed,Confirmed Fraud
+311,603,5/28/2023 14:23,Account Takeover,Open,No Action Taken
+312,272,8/25/2024 10:39,Card Not Present,Under Investigation,No Action Taken
+313,539,7/14/2020 4:04,Card Not Present,Open,No Action Taken
+315,516,3/6/2024 20:05,Stolen Card,Open,No Action Taken
+316,470,4/28/2022 13:04,Card Not Present,Open,No Action Taken
+317,868,4/21/2024 6:22,Fake Merchant,Resolved,False Positive
+318,503,3/9/2020 1:14,Fake Merchant,Open,No Action Taken
+319,330,4/5/2020 19:23,Skimming,Under Investigation,No Action Taken
+321,612,1/26/2024 13:17,Skimming,Closed,Confirmed Fraud
+322,518,1/31/2023 9:19,Skimming,Resolved,False Positive
+323,813,4/22/2023 9:34,Card Not Present,Under Investigation,No Action Taken
+324,463,6/27/2023 7:39,Stolen Card,Resolved,False Positive
+325,848,5/3/2024 17:11,Fake Merchant,Resolved,False Positive
+327,321,1/23/2023 7:27,Account Takeover,Closed,Confirmed Fraud
+329,852,10/14/2023 1:39,Card Not Present,Open,No Action Taken
+330,99,12/22/2022 23:02,Account Takeover,Under Investigation,No Action Taken
+331,601,1/26/2020 20:01,Skimming,Closed,Confirmed Fraud
+332,421,10/8/2021 15:17,Account Takeover,Resolved,False Positive
+333,992,1/26/2022 10:02,Account Takeover,Closed,Confirmed Fraud
+334,107,5/6/2024 3:21,Skimming,Under Investigation,No Action Taken
+335,673,10/22/2024 13:52,Fake Merchant,Under Investigation,No Action Taken
+336,359,4/22/2023 23:05,Skimming,Closed,Confirmed Fraud
+337,781,9/26/2022 4:21,Account Takeover,Under Investigation,No Action Taken
+338,866,6/30/2020 18:22,Skimming,Open,No Action Taken
+340,944,7/7/2023 23:21,Account Takeover,Closed,Confirmed Fraud
+341,186,6/23/2022 2:07,Stolen Card,Resolved,False Positive
+342,146,5/30/2024 1:57,Card Not Present,Open,No Action Taken
+343,386,5/29/2023 11:20,Fake Merchant,Resolved,False Positive
+344,162,8/14/2021 6:44,Account Takeover,Closed,Confirmed Fraud
+345,796,9/7/2024 22:11,Skimming,Open,No Action Taken
+346,160,11/22/2020 14:37,Stolen Card,Open,No Action Taken
+347,279,3/9/2024 10:19,Fake Merchant,Resolved,False Positive
+348,622,6/29/2022 2:51,Fake Merchant,Resolved,False Positive
+349,221,12/7/2022 8:45,Skimming,Open,No Action Taken
+350,441,12/18/2019 9:48,Card Not Present,Closed,Confirmed Fraud
+351,540,8/28/2020 6:57,Account Takeover,Open,No Action Taken
+352,405,10/7/2023 3:42,Skimming,Open,No Action Taken
+353,210,12/29/2022 21:37,Account Takeover,Under Investigation,No Action Taken
+354,783,1/29/2024 1:12,Account Takeover,Closed,Confirmed Fraud
+355,123,5/29/2021 0:37,Card Not Present,Resolved,False Positive
+357,513,11/24/2020 2:13,Skimming,Closed,Confirmed Fraud
+358,407,3/14/2021 18:54,Card Not Present,Resolved,False Positive
+359,471,7/23/2020 2:58,Card Not Present,Closed,Confirmed Fraud
+361,118,9/22/2022 3:05,Fake Merchant,Open,No Action Taken
+362,176,10/15/2022 21:36,Skimming,Resolved,False Positive
+364,447,4/25/2021 23:27,Skimming,Resolved,False Positive
+365,406,9/14/2023 18:17,Account Takeover,Closed,Confirmed Fraud
+368,360,12/5/2019 2:17,Stolen Card,Under Investigation,No Action Taken
+369,150,7/22/2023 8:22,Account Takeover,Under Investigation,No Action Taken
+370,617,3/10/2023 18:09,Stolen Card,Open,No Action Taken
+371,975,9/8/2022 7:10,Fake Merchant,Resolved,False Positive
+372,698,10/3/2023 0:24,Skimming,Closed,Confirmed Fraud
+375,361,10/31/2020 18:16,Skimming,Open,No Action Taken
+377,378,12/18/2021 0:55,Account Takeover,Open,No Action Taken
+378,630,9/16/2021 23:42,Skimming,Resolved,False Positive
+379,595,12/31/2019 9:31,Skimming,Open,No Action Taken
+381,620,5/29/2020 10:00,Fake Merchant,Under Investigation,No Action Taken
+382,462,5/16/2021 1:54,Card Not Present,Closed,Confirmed Fraud
+383,517,5/10/2020 10:54,Stolen Card,Open,No Action Taken
+384,725,10/21/2022 15:38,Fake Merchant,Resolved,False Positive
+386,419,6/30/2023 15:07,Account Takeover,Open,No Action Taken
+389,84,2/24/2022 21:03,Skimming,Under Investigation,No Action Taken
+390,318,7/5/2022 2:46,Fake Merchant,Under Investigation,No Action Taken
+393,521,10/1/2021 23:29,Account Takeover,Open,No Action Taken
+394,317,3/17/2021 2:07,Stolen Card,Under Investigation,No Action Taken
+396,141,8/21/2023 10:09,Stolen Card,Open,No Action Taken
+397,865,2/27/2024 2:13,Card Not Present,Open,No Action Taken
+398,898,5/11/2020 22:20,Skimming,Under Investigation,No Action Taken
+399,158,3/9/2020 13:14,Stolen Card,Under Investigation,No Action Taken
+400,739,9/22/2023 9:14,Fake Merchant,Open,No Action Taken
+401,374,6/26/2021 17:37,Stolen Card,Resolved,False Positive
+402,771,8/26/2020 6:27,Fake Merchant,Under Investigation,No Action Taken
+404,695,5/8/2021 12:14,Skimming,Resolved,False Positive
+405,788,6/23/2023 6:01,Account Takeover,Resolved,False Positive
+406,990,12/2/2020 9:40,Stolen Card,Under Investigation,No Action Taken
+409,292,2/8/2023 5:33,Card Not Present,Under Investigation,No Action Taken
+410,461,10/28/2021 17:00,Skimming,Under Investigation,No Action Taken
+412,953,12/31/2019 11:21,Card Not Present,Resolved,False Positive
+415,29,9/1/2022 19:29,Account Takeover,Open,No Action Taken
+416,811,11/23/2021 2:37,Stolen Card,Under Investigation,No Action Taken
+419,20,12/27/2021 18:57,Account Takeover,Under Investigation,No Action Taken
+420,562,3/2/2022 6:18,Skimming,Resolved,False Positive
+422,125,4/26/2022 1:46,Card Not Present,Under Investigation,No Action Taken
+424,114,1/21/2022 18:38,Fake Merchant,Open,No Action Taken
+425,736,6/18/2024 18:48,Stolen Card,Closed,Confirmed Fraud
+426,2,10/7/2024 18:32,Skimming,Closed,Confirmed Fraud
+427,585,2/6/2020 15:25,Fake Merchant,Under Investigation,No Action Taken
+428,537,12/9/2023 10:20,Account Takeover,Open,No Action Taken
+429,400,3/4/2021 3:42,Fake Merchant,Open,No Action Taken
+430,383,8/17/2024 23:37,Account Takeover,Open,No Action Taken
+432,751,5/24/2024 23:00,Card Not Present,Closed,Confirmed Fraud
+435,831,12/4/2023 8:13,Stolen Card,Open,No Action Taken
+436,38,4/2/2024 21:43,Account Takeover,Under Investigation,No Action Taken
+439,260,4/25/2023 14:48,Card Not Present,Under Investigation,No Action Taken
+440,366,5/17/2021 15:20,Card Not Present,Closed,Confirmed Fraud
+441,128,5/10/2021 0:52,Account Takeover,Resolved,False Positive
+442,762,11/2/2023 11:12,Fake Merchant,Resolved,False Positive
+443,998,4/6/2024 18:58,Stolen Card,Resolved,False Positive
+444,377,7/2/2023 8:50,Skimming,Closed,Confirmed Fraud
+445,745,9/2/2020 22:28,Fake Merchant,Open,No Action Taken
+447,106,10/23/2020 23:27,Card Not Present,Closed,Confirmed Fraud
+448,314,1/11/2023 15:15,Fake Merchant,Resolved,False Positive
+450,44,2/19/2024 8:56,Account Takeover,Resolved,False Positive
+455,371,4/23/2020 10:02,Fake Merchant,Open,No Action Taken
+456,696,10/1/2020 8:01,Fake Merchant,Closed,Confirmed Fraud
+457,455,11/15/2021 19:07,Card Not Present,Under Investigation,No Action Taken
+459,984,8/18/2020 7:39,Card Not Present,Open,No Action Taken
+460,512,10/19/2024 1:14,Skimming,Resolved,False Positive
+461,269,8/19/2024 6:16,Account Takeover,Resolved,False Positive
+462,627,11/7/2023 14:15,Account Takeover,Resolved,False Positive
+463,126,6/16/2023 12:27,Stolen Card,Open,No Action Taken
+464,177,11/25/2023 17:29,Fake Merchant,Open,No Action Taken
+466,913,7/22/2021 21:56,Account Takeover,Under Investigation,No Action Taken
+468,206,1/22/2022 16:03,Stolen Card,Under Investigation,No Action Taken
+469,27,2/7/2021 5:35,Account Takeover,Closed,Confirmed Fraud
+470,823,12/25/2021 10:34,Skimming,Under Investigation,No Action Taken
+473,129,9/14/2022 11:18,Account Takeover,Open,No Action Taken
+474,478,11/14/2023 10:36,Skimming,Closed,Confirmed Fraud
+475,900,11/4/2023 7:28,Skimming,Under Investigation,No Action Taken
+477,531,7/2/2024 18:39,Stolen Card,Closed,Confirmed Fraud
+478,166,10/29/2020 12:49,Account Takeover,Under Investigation,No Action Taken
+480,257,6/29/2022 17:37,Stolen Card,Closed,Confirmed Fraud
+481,641,7/29/2024 3:26,Account Takeover,Open,No Action Taken
+483,675,8/30/2023 8:54,Skimming,Closed,Confirmed Fraud
+484,846,8/1/2021 11:44,Card Not Present,Open,No Action Taken
+486,786,4/12/2024 14:09,Skimming,Resolved,False Positive
+488,495,2/25/2020 0:37,Stolen Card,Resolved,False Positive
+490,451,10/4/2024 23:01,Fake Merchant,Resolved,False Positive
+492,883,7/27/2021 5:17,Account Takeover,Closed,Confirmed Fraud
+493,134,2/23/2024 8:07,Account Takeover,Open,No Action Taken
+494,248,7/5/2020 10:45,Fake Merchant,Open,No Action Taken
+499,511,9/18/2022 12:42,Account Takeover,Resolved,False Positive
+500,93,5/12/2023 19:41,Fake Merchant,Resolved,False Positive

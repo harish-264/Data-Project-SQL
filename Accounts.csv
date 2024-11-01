@@ -1,0 +1,551 @@
+account_id,customer_id,account_type,credit_limit,balance,account_status,delinquent
+1,178,Credit Card,19658,0,Closed,FALSE
+2,26,Credit Card,11488,4247,Active,FALSE
+3,142,Personal Loan,39141,0,Closed,FALSE
+4,119,Auto Loan,16799,9167,In Collections,FALSE
+5,32,Personal Loan,11567,3423,Active,FALSE
+6,379,Loan,38827,0,Closed,FALSE
+7,400,Mortgage,31697,5744,Delinquent,TRUE
+8,100,Mortgage,15214,12565,In Collections,FALSE
+9,190,Credit Card,20344,6249,Delinquent,TRUE
+10,488,Auto Loan,35978,0,Closed,FALSE
+11,351,Credit Card,29662,8278,Delinquent,TRUE
+12,182,Loan,19883,13205,In Collections,FALSE
+13,76,Mortgage,13723,12080,Delinquent,TRUE
+14,436,Credit Card,33496,0,Closed,FALSE
+15,84,Personal Loan,14400,0,Closed,FALSE
+16,359,Mortgage,30047,0,Closed,FALSE
+17,435,Credit Card,33489,21683,Active,FALSE
+18,73,Auto Loan,13625,7001,In Collections,FALSE
+19,460,Personal Loan,34893,20719,Delinquent,TRUE
+20,387,Auto Loan,31015,16566,Delinquent,TRUE
+21,38,Loan,11781,10209,Active,FALSE
+22,454,Credit Card,34580,3778,In Collections,FALSE
+23,274,Credit Card,38065,18850,In Collections,FALSE
+24,494,Mortgage,36250,3637,Active,FALSE
+25,180,Credit Card,19863,10957,Delinquent,TRUE
+26,487,Mortgage,35962,18792,In Collections,FALSE
+27,370,Mortgage,36901,28539,Active,FALSE
+28,344,Mortgage,29320,0,Closed,FALSE
+29,6,Mortgage,10227,7010,Active,FALSE
+30,402,Mortgage,31751,24710,Delinquent,TRUE
+31,279,Mortgage,25260,22699,Active,FALSE
+32,444,Personal Loan,34147,0,Closed,FALSE
+33,169,Personal Loan,19368,7970,In Collections,FALSE
+34,104,Loan,37806,0,Closed,FALSE
+35,155,Mortgage,18897,17496,Delinquent,TRUE
+36,132,Auto Loan,17414,1782,Active,FALSE
+37,194,Credit Card,20426,0,Closed,FALSE
+38,62,Credit Card,12859,11600,Active,FALSE
+39,283,Credit Card,25375,0,Closed,FALSE
+40,161,Personal Loan,19052,5690,In Collections,FALSE
+41,462,Personal Loan,39335,23247,Active,FALSE
+42,85,Personal Loan,14471,8098,Active,FALSE
+43,363,Credit Card,30169,20433,Active,FALSE
+44,183,Loan,19932,13298,In Collections,FALSE
+45,420,Mortgage,32569,24129,Active,FALSE
+46,373,Auto Loan,30504,10887,Active,FALSE
+47,379,Credit Card,30741,0,Closed,FALSE
+48,478,Personal Loan,35599,19764,Active,FALSE
+49,200,Personal Loan,20920,18457,In Collections,FALSE
+50,305,Personal Loan,26970,3799,In Collections,FALSE
+51,470,Loan,35302,14289,Active,FALSE
+52,322,Mortgage,28017,0,Closed,FALSE
+53,210,Auto Loan,21393,6663,Active,FALSE
+54,93,Loan,14909,0,Closed,FALSE
+55,326,Auto Loan,39268,23794,Delinquent,TRUE
+56,14,Mortgage,10758,0,Closed,FALSE
+57,42,Personal Loan,11882,6741,In Collections,FALSE
+58,75,Credit Card,13643,1984,Active,FALSE
+59,273,Auto Loan,25007,11582,Delinquent,TRUE
+60,480,Credit Card,35704,0,Closed,FALSE
+61,340,Auto Loan,28901,4937,Active,FALSE
+62,192,Auto Loan,20388,0,Closed,FALSE
+63,41,Credit Card,11877,0,Closed,FALSE
+64,303,Mortgage,26585,0,Closed,FALSE
+65,356,Mortgage,29912,21124,Active,FALSE
+66,451,Personal Loan,34468,18737,Delinquent,TRUE
+67,225,Loan,22121,18420,In Collections,FALSE
+68,259,Personal Loan,36787,0,Closed,FALSE
+69,22,Credit Card,11292,0,Closed,FALSE
+70,105,Loan,15403,9612,Active,FALSE
+71,477,Mortgage,35489,3768,Active,FALSE
+72,104,Auto Loan,15341,0,Closed,FALSE
+73,350,Loan,39683,0,Closed,FALSE
+74,440,Personal Loan,33624,21556,Delinquent,TRUE
+75,408,Personal Loan,32107,0,Closed,FALSE
+76,350,Loan,29595,24599,Active,FALSE
+77,310,Personal Loan,27306,11083,In Collections,FALSE
+78,70,Mortgage,13208,0,Closed,FALSE
+79,404,Loan,31895,25979,Active,FALSE
+80,58,Mortgage,12524,4776,Delinquent,TRUE
+81,12,Credit Card,10640,0,Closed,FALSE
+82,72,Mortgage,37826,32406,Delinquent,TRUE
+83,72,Mortgage,13398,5515,Active,FALSE
+84,345,Auto Loan,29392,14925,In Collections,FALSE
+85,181,Auto Loan,19863,0,Closed,FALSE
+86,250,Personal Loan,23697,17251,Delinquent,TRUE
+87,3,Mortgage,10125,1882,Delinquent,TRUE
+88,165,Mortgage,19154,2551,Delinquent,TRUE
+89,25,Loan,11482,10873,In Collections,FALSE
+90,326,Loan,28254,25318,Active,FALSE
+91,87,Mortgage,14507,2319,Delinquent,TRUE
+92,355,Personal Loan,29870,23127,In Collections,FALSE
+93,302,Loan,26583,4799,Delinquent,TRUE
+94,199,Loan,20888,0,Closed,FALSE
+95,296,Credit Card,26406,5019,Active,FALSE
+96,13,Personal Loan,10672,4733,In Collections,FALSE
+97,143,Personal Loan,18116,5613,Active,FALSE
+98,61,Credit Card,12790,1511,In Collections,FALSE
+99,92,Auto Loan,14803,14014,In Collections,FALSE
+100,88,Personal Loan,14514,4512,Delinquent,TRUE
+101,226,Personal Loan,22150,6041,In Collections,FALSE
+102,177,Auto Loan,19646,11002,In Collections,FALSE
+103,334,Mortgage,28623,27816,Delinquent,TRUE
+104,103,Auto Loan,15337,10972,In Collections,FALSE
+105,68,Mortgage,13204,6225,Active,FALSE
+106,83,Loan,14378,0,Closed,FALSE
+107,465,Personal Loan,35088,17173,In Collections,FALSE
+108,384,Loan,30909,15208,Active,FALSE
+109,292,Auto Loan,26051,5828,Delinquent,TRUE
+110,108,Personal Loan,37523,15785,In Collections,FALSE
+111,172,Auto Loan,19423,17032,In Collections,FALSE
+112,244,Mortgage,23373,9237,Delinquent,TRUE
+113,203,Personal Loan,37454,0,Closed,FALSE
+114,245,Auto Loan,39437,13173,Active,FALSE
+115,442,Personal Loan,33823,15851,Active,FALSE
+116,185,Personal Loan,20123,18544,Delinquent,TRUE
+117,91,Personal Loan,14766,2021,In Collections,FALSE
+118,164,Credit Card,19109,3493,Active,FALSE
+119,287,Mortgage,25658,21257,Active,FALSE
+120,342,Credit Card,29140,26922,Active,FALSE
+121,386,Loan,31000,11084,Active,FALSE
+122,362,Loan,30160,26840,Delinquent,TRUE
+123,428,Auto Loan,33349,16902,Active,FALSE
+124,364,Loan,30201,4810,Active,FALSE
+125,269,Mortgage,24810,11175,In Collections,FALSE
+126,398,Loan,31599,0,Closed,FALSE
+127,385,Mortgage,30917,10078,Active,FALSE
+128,251,Auto Loan,23729,22804,In Collections,FALSE
+129,462,Mortgage,34915,10002,Active,FALSE
+130,66,Personal Loan,13074,7726,Delinquent,TRUE
+131,266,Personal Loan,24765,6571,Delinquent,TRUE
+132,237,Auto Loan,22802,21321,Delinquent,TRUE
+133,29,Loan,11538,5952,In Collections,FALSE
+134,173,Personal Loan,19439,19411,Delinquent,TRUE
+135,366,Personal Loan,30252,0,Closed,FALSE
+136,388,Mortgage,31040,20577,Delinquent,TRUE
+137,156,Credit Card,18933,0,Closed,FALSE
+138,352,Personal Loan,29737,7634,In Collections,FALSE
+139,139,Personal Loan,17922,4106,Delinquent,TRUE
+140,281,Personal Loan,25344,17926,Delinquent,TRUE
+141,411,Auto Loan,32214,27233,Delinquent,TRUE
+142,149,Personal Loan,18619,11802,Active,FALSE
+143,311,Loan,27365,0,Closed,FALSE
+144,267,Loan,24773,20739,Delinquent,TRUE
+145,176,Loan,19612,7484,Delinquent,TRUE
+146,2,Auto Loan,10050,6141,Active,FALSE
+147,80,Mortgage,14301,10971,In Collections,FALSE
+148,301,Credit Card,26520,19155,In Collections,FALSE
+149,28,Loan,11528,11164,In Collections,FALSE
+150,108,Credit Card,15679,6997,Active,FALSE
+151,99,Loan,15063,8990,Active,FALSE
+152,277,Credit Card,25242,0,Closed,FALSE
+153,7,Auto Loan,10240,5205,Delinquent,TRUE
+154,260,Auto Loan,38855,37916,Active,FALSE
+155,115,Credit Card,16486,0,Closed,FALSE
+156,438,Credit Card,33542,21774,Active,FALSE
+157,221,Credit Card,21846,20876,In Collections,FALSE
+158,376,Credit Card,30638,9397,In Collections,FALSE
+159,174,Loan,19496,0,Closed,FALSE
+160,154,Credit Card,18695,8485,Delinquent,TRUE
+161,390,Loan,31121,31064,Delinquent,TRUE
+162,381,Auto Loan,30788,8532,In Collections,FALSE
+163,431,Mortgage,33420,17905,In Collections,FALSE
+164,469,Credit Card,35288,5971,Delinquent,TRUE
+165,288,Mortgage,25680,15602,Active,FALSE
+166,377,Mortgage,30648,0,Closed,FALSE
+167,11,Auto Loan,10583,0,Closed,FALSE
+168,110,Personal Loan,39432,25929,Active,FALSE
+169,468,Mortgage,35269,7104,Active,FALSE
+170,168,Loan,19329,16482,Delinquent,TRUE
+171,320,Personal Loan,27892,25034,In Collections,FALSE
+172,170,Mortgage,19377,10907,In Collections,FALSE
+173,409,Auto Loan,32158,16743,In Collections,FALSE
+174,48,Credit Card,12262,5033,In Collections,FALSE
+175,122,Personal Loan,16989,0,Closed,FALSE
+176,482,Mortgage,35761,14822,Active,FALSE
+177,60,Auto Loan,12663,8789,Delinquent,TRUE
+178,325,Credit Card,28145,4190,Active,FALSE
+179,186,Credit Card,20223,6673,Delinquent,TRUE
+180,140,Mortgage,18062,8335,In Collections,FALSE
+181,319,Personal Loan,27868,0,Closed,FALSE
+182,109,Credit Card,15910,6732,In Collections,FALSE
+183,126,Auto Loan,17282,12256,Delinquent,TRUE
+184,490,Auto Loan,36013,0,Closed,FALSE
+185,106,Auto Loan,15477,1804,In Collections,FALSE
+186,433,Mortgage,33469,0,Closed,FALSE
+187,422,Personal Loan,32818,26864,Active,FALSE
+188,371,Personal Loan,39082,34522,In Collections,FALSE
+189,427,Loan,33310,21647,Delinquent,TRUE
+190,314,Credit Card,27565,13164,In Collections,FALSE
+191,374,Loan,30586,0,Closed,FALSE
+192,338,Personal Loan,28826,26606,In Collections,FALSE
+193,455,Credit Card,34597,10522,In Collections,FALSE
+194,485,Mortgage,35845,26770,In Collections,FALSE
+195,112,Auto Loan,16266,9355,Delinquent,TRUE
+196,491,Credit Card,36153,8800,Active,FALSE
+197,284,Loan,25478,2867,Active,FALSE
+198,39,Credit Card,11847,0,Closed,FALSE
+199,56,Auto Loan,12392,0,Closed,FALSE
+200,367,Loan,30340,0,Closed,FALSE
+201,43,Auto Loan,11999,4437,Delinquent,TRUE
+202,467,Mortgage,35254,20902,In Collections,FALSE
+203,248,Mortgage,23588,8445,In Collections,FALSE
+204,394,Mortgage,31544,4013,In Collections,FALSE
+205,118,Mortgage,16782,9021,In Collections,FALSE
+206,483,Personal Loan,35775,29585,Delinquent,TRUE
+207,361,Mortgage,30104,8272,In Collections,FALSE
+208,270,Credit Card,24819,17113,Active,FALSE
+209,309,Auto Loan,36778,23072,Delinquent,TRUE
+210,50,Loan,12301,0,Closed,FALSE
+211,263,Mortgage,24486,0,Closed,FALSE
+212,337,Credit Card,28798,26519,Delinquent,TRUE
+213,52,Personal Loan,12342,0,Closed,FALSE
+214,111,Mortgage,16180,0,Closed,FALSE
+215,89,Auto Loan,14537,4660,Delinquent,TRUE
+216,46,Loan,12201,2354,In Collections,FALSE
+217,401,Mortgage,31749,26732,Active,FALSE
+218,453,Credit Card,34499,32867,In Collections,FALSE
+219,429,Auto Loan,33383,15636,Active,FALSE
+220,206,Auto Loan,21266,5009,Delinquent,TRUE
+221,92,Personal Loan,38038,16139,Active,FALSE
+222,59,Loan,12602,6758,Delinquent,TRUE
+223,397,Auto Loan,31591,20158,In Collections,FALSE
+224,323,Mortgage,28066,18664,Active,FALSE
+225,309,Credit Card,27261,24919,Active,FALSE
+226,30,Auto Loan,11544,10095,In Collections,FALSE
+227,276,Loan,25146,8585,In Collections,FALSE
+228,230,Personal Loan,22470,21779,Delinquent,TRUE
+229,450,Personal Loan,34466,24370,Delinquent,TRUE
+230,96,Mortgage,14985,5757,Delinquent,TRUE
+231,341,Personal Loan,28910,9501,In Collections,FALSE
+232,24,Loan,11480,8786,Active,FALSE
+233,414,Mortgage,32356,0,Closed,FALSE
+234,166,Auto Loan,19169,0,Closed,FALSE
+235,129,Loan,17349,7739,Delinquent,TRUE
+236,33,Loan,11631,0,Closed,FALSE
+237,51,Credit Card,12328,0,Closed,FALSE
+238,328,Mortgage,28357,0,Closed,FALSE
+239,370,Personal Loan,30492,13719,In Collections,FALSE
+240,449,Mortgage,34343,0,Closed,FALSE
+241,232,Auto Loan,39009,30560,Delinquent,TRUE
+242,37,Credit Card,11761,7909,In Collections,FALSE
+243,293,Credit Card,26166,9260,Active,FALSE
+244,5,Credit Card,10170,0,Closed,FALSE
+245,254,Auto Loan,23991,15623,Delinquent,TRUE
+246,133,Auto Loan,17590,13544,In Collections,FALSE
+247,235,Credit Card,22662,0,Closed,FALSE
+248,157,Personal Loan,18976,6807,In Collections,FALSE
+249,354,Personal Loan,29848,12353,Delinquent,TRUE
+250,242,Mortgage,23237,22285,In Collections,FALSE
+251,299,Credit Card,26460,24580,Active,FALSE
+252,297,Mortgage,26433,25377,Delinquent,TRUE
+253,145,Credit Card,18227,6077,In Collections,FALSE
+254,403,Credit Card,31842,20221,Delinquent,TRUE
+255,294,Auto Loan,26381,15306,In Collections,FALSE
+256,86,Credit Card,14505,4395,Active,FALSE
+257,430,Mortgage,33416,19145,Active,FALSE
+258,77,Mortgage,13816,12064,Delinquent,TRUE
+259,498,Mortgage,36516,0,Closed,FALSE
+260,471,Personal Loan,35307,4200,Active,FALSE
+261,218,Auto Loan,21680,5865,Delinquent,TRUE
+262,229,Mortgage,22429,4060,Active,FALSE
+263,40,Credit Card,11867,7815,Active,FALSE
+264,317,Credit Card,27727,27697,In Collections,FALSE
+265,286,Personal Loan,25625,13247,Active,FALSE
+266,232,Personal Loan,22541,11593,In Collections,FALSE
+267,418,Mortgage,32541,9183,Active,FALSE
+268,156,Loan,39638,0,Closed,FALSE
+269,259,Mortgage,24341,15232,In Collections,FALSE
+270,137,Personal Loan,17737,0,Closed,FALSE
+271,495,Auto Loan,36268,4232,Active,FALSE
+272,492,Credit Card,36201,30301,Active,FALSE
+273,116,Mortgage,38787,17841,In Collections,FALSE
+274,23,Credit Card,11336,0,Closed,FALSE
+275,260,Auto Loan,24364,8981,Delinquent,TRUE
+276,211,Personal Loan,21421,9213,In Collections,FALSE
+277,135,Credit Card,17611,8936,Delinquent,TRUE
+278,335,Mortgage,28634,20709,Active,FALSE
+279,484,Auto Loan,35840,14164,Delinquent,TRUE
+280,150,Loan,18628,0,Closed,FALSE
+281,69,Auto Loan,38476,22748,Active,FALSE
+282,65,Personal Loan,13049,12202,In Collections,FALSE
+283,313,Auto Loan,27511,27364,Delinquent,TRUE
+284,380,Mortgage,30747,5490,In Collections,FALSE
+285,271,Mortgage,24847,24584,Delinquent,TRUE
+286,375,Credit Card,30597,5744,Active,FALSE
+287,464,Mortgage,35029,7740,Active,FALSE
+288,458,Auto Loan,34761,11045,Active,FALSE
+289,493,Auto Loan,37556,11129,In Collections,FALSE
+290,45,Loan,12011,7623,Delinquent,TRUE
+291,343,Credit Card,29200,0,Closed,FALSE
+292,481,Personal Loan,35727,0,Closed,FALSE
+293,274,Mortgage,25045,9811,Delinquent,TRUE
+294,308,Auto Loan,27191,3380,Delinquent,TRUE
+295,437,Mortgage,33541,16150,Delinquent,TRUE
+296,280,Auto Loan,25332,0,Closed,FALSE
+297,38,Mortgage,38447,26641,In Collections,FALSE
+298,47,Auto Loan,12257,4668,In Collections,FALSE
+299,405,Mortgage,31955,23431,Active,FALSE
+300,457,Personal Loan,34748,29849,Delinquent,TRUE
+301,224,Loan,22076,0,Closed,FALSE
+302,144,Loan,18145,10184,Active,FALSE
+303,114,Auto Loan,16482,5826,Active,FALSE
+304,336,Mortgage,28698,13775,In Collections,FALSE
+305,255,Loan,23991,0,Closed,FALSE
+306,32,Personal Loan,39529,0,Closed,FALSE
+307,321,Personal Loan,28011,17130,In Collections,FALSE
+308,332,Auto Loan,28495,6465,In Collections,FALSE
+309,8,Loan,10380,2928,In Collections,FALSE
+310,53,Mortgage,12361,1644,In Collections,FALSE
+311,252,Loan,23742,0,Closed,FALSE
+312,262,Mortgage,24421,20693,Delinquent,TRUE
+313,239,Credit Card,23024,20826,Active,FALSE
+314,138,Credit Card,17868,0,Closed,FALSE
+315,102,Personal Loan,15285,14892,In Collections,FALSE
+316,432,Mortgage,33460,15651,In Collections,FALSE
+317,9,Mortgage,10387,8757,Delinquent,TRUE
+318,16,Credit Card,10896,5350,Delinquent,TRUE
+319,258,Loan,24295,8490,In Collections,FALSE
+320,124,Loan,17110,8126,Active,FALSE
+321,95,Credit Card,14969,0,Closed,FALSE
+322,27,Auto Loan,11510,3124,Delinquent,TRUE
+323,34,Mortgage,11645,5082,In Collections,FALSE
+324,407,Credit Card,32046,16981,Active,FALSE
+325,290,Auto Loan,25804,19151,Delinquent,TRUE
+326,426,Credit Card,33140,7907,In Collections,FALSE
+327,71,Credit Card,13241,1820,Active,FALSE
+328,330,Personal Loan,28401,18773,Delinquent,TRUE
+329,406,Credit Card,31990,0,Closed,FALSE
+330,153,Credit Card,18676,15999,Delinquent,TRUE
+331,134,Credit Card,17600,0,Closed,FALSE
+332,417,Personal Loan,32491,0,Closed,FALSE
+333,445,Loan,34177,13582,In Collections,FALSE
+334,207,Mortgage,21290,5543,Active,FALSE
+335,136,Mortgage,17657,5808,In Collections,FALSE
+336,256,Credit Card,24022,2595,Delinquent,TRUE
+337,399,Credit Card,31660,23013,Active,FALSE
+338,204,Mortgage,21119,15069,In Collections,FALSE
+339,74,Personal Loan,13638,7048,In Collections,FALSE
+340,349,Auto Loan,29484,28088,In Collections,FALSE
+341,228,Personal Loan,22362,11705,Delinquent,TRUE
+342,152,Credit Card,18673,8047,Delinquent,TRUE
+343,439,Auto Loan,33589,22720,In Collections,FALSE
+344,489,Personal Loan,35984,10679,Delinquent,TRUE
+345,393,Personal Loan,31472,26492,Active,FALSE
+346,245,Personal Loan,23544,0,Closed,FALSE
+347,285,Credit Card,25575,19984,In Collections,FALSE
+348,493,Loan,36248,19295,Delinquent,TRUE
+349,205,Personal Loan,21211,0,Closed,FALSE
+350,456,Personal Loan,34721,20972,Active,FALSE
+351,392,Loan,31318,7466,Delinquent,TRUE
+352,446,Credit Card,34256,16193,In Collections,FALSE
+353,490,Auto Loan,37269,36930,In Collections,FALSE
+354,261,Auto Loan,24366,7768,In Collections,FALSE
+355,387,Credit Card,39658,0,Closed,FALSE
+356,499,Personal Loan,36666,25323,Delinquent,TRUE
+357,31,Mortgage,11558,10049,Delinquent,TRUE
+358,55,Mortgage,12391,0,Closed,FALSE
+359,219,Mortgage,21752,0,Closed,FALSE
+360,295,Loan,26402,13511,Delinquent,TRUE
+361,63,Auto Loan,12907,0,Closed,FALSE
+362,371,Credit Card,30500,24340,In Collections,FALSE
+363,331,Personal Loan,28449,11301,Active,FALSE
+364,214,Mortgage,21619,5894,Delinquent,TRUE
+365,208,Auto Loan,21357,0,Closed,FALSE
+366,500,Auto Loan,36776,35019,Active,FALSE
+367,238,Loan,23022,0,Closed,FALSE
+368,98,Auto Loan,14989,10522,Delinquent,TRUE
+369,102,Auto Loan,39672,31920,Active,FALSE
+370,315,Loan,27590,0,Closed,FALSE
+371,79,Auto Loan,14073,13458,Active,FALSE
+372,159,Credit Card,19041,3606,Delinquent,TRUE
+373,216,Loan,21648,4574,Active,FALSE
+374,272,Auto Loan,24974,14481,In Collections,FALSE
+375,151,Personal Loan,39935,17457,Active,FALSE
+376,67,Personal Loan,13140,9096,Delinquent,TRUE
+377,146,Loan,18307,5914,Delinquent,TRUE
+378,316,Personal Loan,27704,16850,Active,FALSE
+379,57,Loan,12394,0,Closed,FALSE
+380,396,Credit Card,31580,6426,In Collections,FALSE
+381,282,Loan,25349,17386,Delinquent,TRUE
+382,324,Loan,28068,24087,In Collections,FALSE
+383,344,Mortgage,37771,24279,In Collections,FALSE
+384,426,Personal Loan,39205,31641,Delinquent,TRUE
+385,187,Credit Card,20301,3920,In Collections,FALSE
+386,300,Auto Loan,26515,0,Closed,FALSE
+387,360,Mortgage,30086,8167,Delinquent,TRUE
+388,44,Personal Loan,37798,24641,Delinquent,TRUE
+389,278,Mortgage,25259,13036,Delinquent,TRUE
+390,188,Auto Loan,20322,7136,Active,FALSE
+391,49,Mortgage,12300,4603,Delinquent,TRUE
+392,476,Loan,35461,7835,Active,FALSE
+393,18,Credit Card,11035,6223,In Collections,FALSE
+394,496,Personal Loan,36438,0,Closed,FALSE
+395,158,Auto Loan,39067,12355,Delinquent,TRUE
+396,203,Mortgage,21036,9753,In Collections,FALSE
+397,413,Auto Loan,32264,21282,Delinquent,TRUE
+398,142,Credit Card,18112,11335,Active,FALSE
+399,253,Personal Loan,23887,0,Closed,FALSE
+400,84,Credit Card,37295,22548,In Collections,FALSE
+401,291,Loan,25850,12125,Active,FALSE
+402,209,Credit Card,21358,20679,In Collections,FALSE
+403,298,Loan,26455,5603,In Collections,FALSE
+404,249,Credit Card,23589,20695,Delinquent,TRUE
+405,8,Personal Loan,38272,0,Closed,FALSE
+406,179,Auto Loan,19854,5671,Delinquent,TRUE
+407,107,Personal Loan,15554,2333,Delinquent,TRUE
+408,172,Mortgage,37123,34852,In Collections,FALSE
+409,416,Personal Loan,32446,18257,Delinquent,TRUE
+410,241,Credit Card,23212,11078,In Collections,FALSE
+411,130,Mortgage,17351,3399,Delinquent,TRUE
+412,97,Mortgage,14985,7895,In Collections,FALSE
+413,4,Mortgage,10130,3843,Delinquent,TRUE
+414,447,Auto Loan,34265,0,Closed,FALSE
+415,425,Credit Card,38697,0,Closed,FALSE
+416,383,Credit Card,30821,9741,Active,FALSE
+417,10,Loan,37827,0,Closed,FALSE
+418,461,Personal Loan,34902,16993,Delinquent,TRUE
+419,148,Mortgage,18581,7928,Active,FALSE
+420,217,Auto Loan,21666,3218,Active,FALSE
+421,265,Loan,24708,23882,Active,FALSE
+422,382,Personal Loan,30809,19931,Delinquent,TRUE
+423,378,Credit Card,30722,6673,Active,FALSE
+424,307,Mortgage,27183,25649,In Collections,FALSE
+425,215,Loan,21619,0,Closed,FALSE
+426,193,Credit Card,20394,10082,Delinquent,TRUE
+427,19,Loan,11050,9366,Delinquent,TRUE
+428,167,Loan,19243,11582,In Collections,FALSE
+429,127,Personal Loan,17309,2453,Active,FALSE
+430,117,Loan,16684,9050,Active,FALSE
+431,443,Personal Loan,33980,4823,Delinquent,TRUE
+432,121,Auto Loan,16875,16003,Delinquent,TRUE
+433,131,Loan,17395,14066,Delinquent,TRUE
+434,393,Personal Loan,39730,23985,Delinquent,TRUE
+435,368,Credit Card,30377,24157,Delinquent,TRUE
+436,15,Loan,10894,0,Closed,FALSE
+437,395,Auto Loan,31568,21883,In Collections,FALSE
+438,268,Auto Loan,24806,0,Closed,FALSE
+439,329,Auto Loan,28367,6965,In Collections,FALSE
+440,21,Mortgage,11246,7168,Active,FALSE
+441,452,Auto Loan,34475,0,Closed,FALSE
+442,423,Mortgage,32891,0,Closed,FALSE
+443,353,Auto Loan,29738,27439,In Collections,FALSE
+444,195,Credit Card,20435,10867,In Collections,FALSE
+445,234,Credit Card,22596,19958,Delinquent,TRUE
+446,358,Credit Card,30015,0,Closed,FALSE
+447,227,Credit Card,22239,16499,Active,FALSE
+448,497,Credit Card,36487,27471,In Collections,FALSE
+449,44,Mortgage,36987,7801,In Collections,FALSE
+450,412,Personal Loan,32249,31084,In Collections,FALSE
+451,196,Credit Card,20476,0,Closed,FALSE
+452,312,Mortgage,27443,13136,In Collections,FALSE
+453,197,Loan,20687,2761,Active,FALSE
+454,113,Credit Card,16266,13189,In Collections,FALSE
+455,246,Personal Loan,23580,10173,Delinquent,TRUE
+456,152,Mortgage,39653,10836,Active,FALSE
+457,82,Personal Loan,14331,11029,Active,FALSE
+458,466,Loan,35219,30719,In Collections,FALSE
+459,147,Credit Card,18415,4390,In Collections,FALSE
+460,239,Auto Loan,38657,9424,Active,FALSE
+461,160,Auto Loan,19045,3815,Delinquent,TRUE
+462,93,Auto Loan,39758,0,Closed,FALSE
+463,415,Loan,32413,7128,In Collections,FALSE
+464,448,Mortgage,34275,0,Closed,FALSE
+465,275,Personal Loan,25131,10681,Delinquent,TRUE
+466,247,Personal Loan,23580,13979,In Collections,FALSE
+467,223,Loan,21904,9238,In Collections,FALSE
+468,151,Loan,18633,2583,In Collections,FALSE
+469,212,Credit Card,21507,0,Closed,FALSE
+470,434,Loan,33481,7440,Active,FALSE
+471,171,Personal Loan,19418,0,Closed,FALSE
+472,17,Mortgage,10950,6906,Active,FALSE
+473,44,Credit Card,12005,0,Closed,FALSE
+474,198,Loan,20713,9312,Active,FALSE
+475,424,Loan,32938,16640,In Collections,FALSE
+476,425,Loan,33009,16348,In Collections,FALSE
+477,189,Loan,20343,19834,In Collections,FALSE
+478,201,Auto Loan,20928,10860,Delinquent,TRUE
+479,220,Personal Loan,21818,15791,In Collections,FALSE
+480,213,Mortgage,21594,6339,In Collections,FALSE
+481,419,Auto Loan,32550,12579,Active,FALSE
+482,372,Auto Loan,30502,11358,In Collections,FALSE
+483,90,Loan,14668,0,Closed,FALSE
+484,162,Auto Loan,19076,5365,Delinquent,TRUE
+485,94,Personal Loan,14968,3350,In Collections,FALSE
+486,78,Loan,13874,0,Closed,FALSE
+487,20,Auto Loan,11175,4237,Active,FALSE
+488,141,Credit Card,18087,14102,Active,FALSE
+489,459,Credit Card,34877,0,Closed,FALSE
+490,479,Loan,35651,14885,Delinquent,TRUE
+491,236,Auto Loan,22730,17286,In Collections,FALSE
+492,410,Personal Loan,32167,21517,In Collections,FALSE
+493,475,Credit Card,35436,31335,Delinquent,TRUE
+494,64,Auto Loan,13007,0,Closed,FALSE
+495,389,Credit Card,31071,6379,Delinquent,TRUE
+496,257,Mortgage,24093,19686,Delinquent,TRUE
+497,475,Personal Loan,39031,0,Closed,FALSE
+498,123,Credit Card,17063,15526,Active,FALSE
+499,264,Personal Loan,24678,20504,Active,FALSE
+500,365,Credit Card,30216,28345,In Collections,FALSE
+501,463,Mortgage,34956,25882,Active,FALSE
+502,197,Auto Loan,37529,12162,In Collections,FALSE
+503,191,Credit Card,20383,6084,Delinquent,TRUE
+504,473,Auto Loan,35375,11146,Delinquent,TRUE
+505,346,Loan,29450,17289,In Collections,FALSE
+506,318,Credit Card,27743,24051,In Collections,FALSE
+507,231,Auto Loan,22514,0,Closed,FALSE
+508,158,Credit Card,19006,9070,Active,FALSE
+509,128,Personal Loan,17341,5252,In Collections,FALSE
+510,339,Mortgage,28867,16381,In Collections,FALSE
+511,289,Loan,25771,12219,In Collections,FALSE
+512,81,Auto Loan,38296,36050,Delinquent,TRUE
+513,327,Loan,28305,0,Closed,FALSE
+514,81,Loan,14324,11093,Active,FALSE
+515,333,Credit Card,28543,18981,Delinquent,TRUE
+516,415,Loan,38988,14163,In Collections,FALSE
+517,110,Credit Card,15945,7212,Delinquent,TRUE
+518,240,Personal Loan,23036,19047,Active,FALSE
+519,472,Auto Loan,35355,0,Closed,FALSE
+520,474,Personal Loan,35389,5463,Delinquent,TRUE
+521,294,Loan,39649,6939,In Collections,FALSE
+522,421,Personal Loan,32587,0,Closed,FALSE
+523,28,Personal Loan,37506,20618,Active,FALSE
+524,73,Mortgage,37462,5582,In Collections,FALSE
+525,35,Mortgage,11652,0,Closed,FALSE
+526,202,Mortgage,20934,9856,In Collections,FALSE
+527,357,Loan,29984,4446,Delinquent,TRUE
+528,116,Personal Loan,16501,2892,Delinquent,TRUE
+529,369,Mortgage,30417,15751,Active,FALSE
+530,184,Auto Loan,20091,0,Closed,FALSE
+531,101,Auto Loan,15260,0,Closed,FALSE
+532,36,Mortgage,11739,3739,In Collections,FALSE
+533,441,Personal Loan,33785,10208,Delinquent,TRUE
+534,175,Loan,19542,18019,Active,FALSE
+535,222,Auto Loan,21863,7709,In Collections,FALSE
+536,1,Credit Card,10047,9465,Active,FALSE
+537,347,Loan,29463,8436,Active,FALSE
+538,10,Personal Loan,10471,10209,In Collections,FALSE
+539,125,Credit Card,17243,0,Closed,FALSE
+540,163,Mortgage,19087,0,Closed,FALSE
+541,348,Credit Card,29478,26261,Active,FALSE
+542,243,Loan,23325,0,Closed,FALSE
+543,391,Personal Loan,31292,27445,In Collections,FALSE
+544,120,Credit Card,16847,8010,Active,FALSE
+545,54,Mortgage,12388,0,Closed,FALSE
+546,304,Loan,26957,10114,Delinquent,TRUE
+547,233,Personal Loan,22573,14890,In Collections,FALSE
+548,306,Loan,26989,9732,In Collections,FALSE
+549,486,Auto Loan,35858,25563,In Collections,FALSE
+550,69,Credit Card,13206,4959,Active,FALSE
